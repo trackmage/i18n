@@ -50,6 +50,6 @@
   "description_available_for_pickup": "El paquete está disponible para ser recogido en las instalaciones de los transportistas.",
   "powered_by": "Desarrollado por",
   "sidebar_show_more": "Mostrar más",
-  "no_numbers": "No se encontró información. Por favor, vuelva a intentarlo con los datos correctos o póngase en contacto con el servicio de atención al cliente.",
+  "no_numbers": "No se encontró información. <br/> Por favor, vuelva a intentarlo con los datos correctos o póngase en contacto con el servicio de atención al cliente.",
   "email_response": "Por razones de seguridad, hemos enviado su enlace de seguimiento a su correo electrónico (si existe). Por favor, revise su correo electrónico para ver dónde se encuentra su paquete"
 }
