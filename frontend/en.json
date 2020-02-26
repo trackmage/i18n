@@ -31,7 +31,7 @@
   "return_to_sender": "Return To Sender",
   "expired": "Expired",
   "transit_limit_exceeded": "Transit Limit Exceeded",
-  "unsuccessful_delivery": "Failure",
+  "unsuccessful_delivery": "Unsuccessful Delivery",
   "error": "Error",
   "cancelled": "Cancelled",
   "delivered": "Delivered",
