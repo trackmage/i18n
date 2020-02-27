@@ -1,7 +1,7 @@
 {
   "search_button": "Поиск",
-  "review_question": "Как вы оцените сервис?",
-  "leave_review": "Оставьте отзыв",
+  "review_question": "Как вы оцениваете сервис?",
+  "leave_review": "Оставить отзыв",
   "review": "Отзыв",
   "phone": "Телефон",
   "homepage": "Главная страница",
@@ -11,7 +11,7 @@
   "last_updated": "Последнее обновление",
   "show_details": "Подробнее",
   "hide_details": "Скрыть",
-  "review_parcel": "Обзор посылки",
+  "review_parcel": "Оставить отзыв",
   "carrier_review_title": "Насколько вы удовлетворены услугами перевозчика?",
   "product_review_title": "Насколько вы удовлетворены продуктом?",
   "package_review_title": "Насколько вы удовлетворены качеством упаковки?",
