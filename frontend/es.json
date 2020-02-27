@@ -31,7 +31,7 @@
   "return_to_sender": "Devolver al remitente",
   "expired": "Caducado",
   "transit_limit_exceeded": "Límite de tránsito excedido",
-  "unsuccessful_delivery": "Fracaso",
+  "unsuccessful_delivery": "Entrega fallida",
   "error": "Error",
   "cancelled": "Cancelado",
   "delivered": "Entregado",
