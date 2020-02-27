@@ -31,7 +31,7 @@
   "return_to_sender": "Retour à l'expéditeur",
   "expired": "Expiré",
   "transit_limit_exceeded": "Limite de transit dépassée",
-  "unsuccessful_delivery": "Échec",
+  "unsuccessful_delivery": "Livraison infructueuse",
   "error": "Erreur",
   "cancelled": "Annulé",
   "delivered": "Livré",
