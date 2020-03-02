@@ -32,7 +32,7 @@
   "expired": "Истёк срок",
   "transit_limit_exceeded": "Лимит времени на перевозку превышен",
   "unsuccessful_delivery": "Неудачная попытка доставки",
-  "error": "Ошибок",
+  "error": "Ошибка",
   "cancelled": "Отменено",
   "delivered": "Доставлено",
   "available_for_pickup": "Доступно для самовывоза",
