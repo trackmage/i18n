@@ -29,7 +29,7 @@
   "delivery_in_progress": "В процессе доставки",
   "in_transit": "В пути",
   "return_to_sender": "Возврат отправителю",
-  "expired": "Истёк срок",
+  "expired": "Истёк срок доставки",
   "transit_limit_exceeded": "Лимит времени на перевозку превышен",
   "unsuccessful_delivery": "Неудачная попытка доставки",
   "error": "Ошибка",
