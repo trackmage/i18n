@@ -47,7 +47,7 @@
   "description_error": "Customs hold or any shipping exceptions. Please contact the carrier.",
   "description_cancelled": "The delivery has been cancelled.",
   "description_delivered": "The package has been delivered.",
-  "description_available_for_pickup": "The package is available for pickup from the carrier&apos;s facility.",
+  "description_available_for_pickup": "The package is available for pickup from the carrier's facility.",
   "powered_by": "Powered by",
   "sidebar_show_more": "Show More",
   "no_numbers": "No information found. <br /> Please try again with the correct data or contact customer support."
