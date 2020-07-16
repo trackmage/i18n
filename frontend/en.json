@@ -50,5 +50,6 @@
   "description_available_for_pickup": "The package is available for pickup from the carrier's facility.",
   "powered_by": "Powered by",
   "sidebar_show_more": "Show More",
-  "no_numbers": "No information found. <br /> Please try again with the correct data or contact customer support."
+  "no_numbers": "No information found. <br /> Please try again with the correct data or contact customer support.",
+  "no_trackings": "Nothing yet :) <br> Your parcels will be displayed here <br> as soon as they are shipped."
 }
