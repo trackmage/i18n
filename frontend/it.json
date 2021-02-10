@@ -4,7 +4,7 @@
   "leave_review": "Lascia una recensione",
   "review": "Recensione",
   "phone": "Telefono",
-  "homepage": "Homepage",
+  "homepage": "Pagina principale",
   "from": "Da",
   "to": "A",
   "expected_delivery_date": "Data di spedizione prevista",
@@ -48,7 +48,7 @@
   "description_cancelled": "La consegna è stata annullata.",
   "description_delivered": "Il collo è stato consegnato.",
   "description_available_for_pickup": "Il collo è disponibile per il ritiro presso la sede del corriere.",
-  "powered_by": "Powered by",
+  "powered_by": "Offerto da",
   "sidebar_show_more": "Mostra di più",
   "no_numbers": "Nessuna informazione trovata. <br /> Si prega di riprovare con i dati corretti o di contattare il servizio clienti.",
   "email_response": "Per motivi di sicurezza, abbiamo inviato il tuo link di tracking al tuo indirizzo e-mail (se esistente). Ti preghiamo di controllare la tua email per vedere dove si trova il tuo collo"
