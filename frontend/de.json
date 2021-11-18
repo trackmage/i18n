@@ -53,5 +53,8 @@
   "powered_by": "Angetrieben durch", 
   "sidebar_show_more": "Mehr anzeigen",
   "no_numbers": "Keine Informationen gefunden. <br/> Bitte versuchen Sie es noch einmal mit den richtigen Daten oder wenden Sie sich an den Kundensupport.",
-  "email_response": "Aus Sicherheitsgründen haben wir Ihren Sendeverfolgungs-Link an Ihre E-Mail geschickt (falls vorhanden). Bitte überprüfen Sie Ihr E-Mail-Postfach, um zu sehen, wo sich Ihr Paket befindet."
+  "email_response": "Aus Sicherheitsgründen haben wir Ihren Sendeverfolgungs-Link an Ihre E-Mail geschickt (falls vorhanden). Bitte überprüfen Sie Ihr E-Mail-Postfach, um zu sehen, wo sich Ihr Paket befindet.",
+  "order_number": "Bestellnummer",
+  "tracking_number": "Sendungscode",
+  "email": "Email"
 }

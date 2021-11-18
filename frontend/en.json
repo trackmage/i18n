@@ -53,5 +53,8 @@
   "powered_by": "Powered by",
   "sidebar_show_more": "Show More",
   "no_numbers": "No information found. <br /> Please try again with the correct data or contact customer support.",
-  "no_trackings": "Nothing yet :) <br> Your parcels will be displayed here <br> as soon as they are shipped."
+  "no_trackings": "Nothing yet :) <br> Your parcels will be displayed here <br> as soon as they are shipped.",
+  "order_number": "Order Number",
+  "tracking_number": "Tracking Number",
+  "email": "Email"
 }

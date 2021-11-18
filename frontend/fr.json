@@ -52,5 +52,8 @@
   "description_available_for_pickup": "Le colis est disponible pour enlèvement dans les locaux du transporteur.",
   "powered_by": "Réalisé par",
   "sidebar_show_more": "Voir plus",
-  "no_numbers": "Aucune information trouvée. <br /> Veuillez réessayer avec les bonnes informations ou contacter notre service clientèle."
+  "no_numbers": "Aucune information trouvée. <br /> Veuillez réessayer avec les bonnes informations ou contacter notre service clientèle.",
+  "order_number": "Numéro de commande",
+  "tracking_number": "Numéro de suivi",
+  "email": "E-mail"
 }
