@@ -53,5 +53,8 @@
   "powered_by": "Potenciado por",
   "sidebar_show_more": "Mostrar Mais",
   "no_numbers": "Não foi encontrada nenhuma informação. <br /> Por favor, tente novamente com os dados corretos ou contacte o apoio ao cliente.",
-  "no_trackings": "Nada, ainda :) <br> As suas encomendas serão mostradas aqui <br> assim que forem enviadas."
+  "no_trackings": "Nada, ainda :) <br> As suas encomendas serão mostradas aqui <br> assim que forem enviadas.",
+  "order_number": "Número do pedido",
+  "tracking_number": "Numero de rastreio",
+  "email": "E-mail"
 }
