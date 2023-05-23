@@ -58,5 +58,11 @@
   "email_response": "Aus Sicherheitsgründen haben wir Ihren Sendeverfolgungs-Link an Ihre E-Mail geschickt (falls vorhanden). Bitte überprüfen Sie Ihr E-Mail-Postfach, um zu sehen, wo sich Ihr Paket befindet.",
   "order_number": "Bestellnummer",
   "tracking_number": "Sendungscode",
-  "email": "Email"
+  "email": "Email",
+  "last_update": "Letztes Update",
+  "btn_hide_products": "Produkte ausblenden",
+  "tp_not_yet_fulfilled": "Noch nicht erfüllte Bestellpositionen",
+  "tp_qty": "Menge",
+  "tp_total": "Gesamt",
+  "tp_price": "Preis"
 }

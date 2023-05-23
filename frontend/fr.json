@@ -57,5 +57,11 @@
   "no_numbers": "Aucune information trouvée. <br /> Veuillez réessayer avec les bonnes informations ou contacter notre service clientèle.",
   "order_number": "Numéro de commande",
   "tracking_number": "Numéro de suivi",
-  "email": "E-mail"
+  "email": "E-mail",
+  "last_update": "Dernière mise à jour",
+  "btn_hide_products": "Masquer les produits",
+  "tp_not_yet_fulfilled": "Articles de commande non encore exécutés",
+  "tp_qty": "Qté",
+  "tp_total": "Total",
+  "tp_price": "Prix"
 }

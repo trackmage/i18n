@@ -58,5 +58,11 @@
   "no_trackings": "Nada, ainda :) <br> As suas encomendas serão mostradas aqui <br> assim que forem enviadas.",
   "order_number": "Número do pedido",
   "tracking_number": "Numero de rastreio",
-  "email": "E-mail"
+  "email": "E-mail",
+  "last_update": "Última atualização",
+  "btn_hide_products": "Ocultar produtos",
+  "tp_not_yet_fulfilled": "Itens de pedido ainda não atendidos",
+  "tp_qty": "quantidade",
+  "tp_total": "Total",
+  "tp_price": "Preço"
 }

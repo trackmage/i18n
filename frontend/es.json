@@ -58,5 +58,11 @@
   "email_response": "Por razones de seguridad, hemos enviado su enlace de seguimiento a su correo electrónico (si existe). Por favor, revise su correo electrónico para ver dónde se encuentra su paquete",
   "order_number": "Número de orden",
   "tracking_number": "El número de rastreo",
-  "email": "Correo electrónico"
+  "email": "Correo electrónico",
+  "last_update": "Última actualización",
+  "btn_hide_products": "Ocultar productos",
+  "tp_not_yet_fulfilled": "Artículos de pedido aún no completados",
+  "tp_qty": "Cantidad",
+  "tp_total": "Total",
+  "tp_price": "Precio"
 }

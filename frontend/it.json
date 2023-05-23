@@ -58,5 +58,11 @@
   "email_response": "Per motivi di sicurezza, abbiamo inviato il tuo link di tracking al tuo indirizzo e-mail (se esistente). Ti preghiamo di controllare la tua email per vedere dove si trova il tuo collo",
   "order_number": "Numero d'ordine",
   "tracking_number": "Numero tracciamento",
-  "email": "E-mail"
+  "email": "E-mail",
+  "last_update": "Ultimo aggiornamento",
+  "btn_hide_products": "Nascondi prodotti",
+  "tp_not_yet_fulfilled": "Articoli dell'ordine non ancora evasi",
+  "tp_qty": "Qtà",
+  "tp_total": "Totale",
+  "tp_price": "Prezzo"
 }

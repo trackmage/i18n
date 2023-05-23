@@ -58,5 +58,11 @@
   "no_trackings": "Nothing yet :) <br> Your parcels will be displayed here <br> as soon as they are shipped.",
   "order_number": "Order Number",
   "tracking_number": "Tracking Number",
-  "email": "Email"
+  "email": "Email",
+  "last_update": "Last update",
+  "btn_hide_products": "Hide products",
+  "tp_not_yet_fulfilled": "Not yet fulfilled order items",
+  "tp_qty": "Qty",
+  "tp_total": "Total",
+  "tp_price": "Price"
 }
