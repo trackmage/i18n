@@ -1,0 +1,3 @@
+public_tracking_page:
+    search:
+        email_response: '出於安全考慮，我們已將您的追蹤鏈接發送到您的電子郵件中（如果存在）。<br />請檢查您的電子郵件以查看您的包裹所在位置。'
