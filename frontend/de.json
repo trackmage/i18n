@@ -61,7 +61,7 @@
   "email": "Email",
   "last_update": "Letztes Update",
   "btn_hide_products": "Produkte ausblenden",
-  "tp_not_yet_fulfilled": "Noch nicht erfüllte Bestellpositionen",
+  "tp_not_yet_fulfilled": "Noch nicht versandte Waren",
   "tp_qty": "Menge",
   "tp_total": "Gesamt",
   "tp_price": "Preis"
