@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Hindi pa napadala ang mga kalakal",
     "tp_qty": "Dami",
     "tp_total": "Kabuuan",
-    "tp_price": "Presyo"
+    "tp_price": "Presyo",
+    "btn_show_products": "Ipakita ang mga produktong available"
 }

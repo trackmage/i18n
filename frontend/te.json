@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "ఇంకా పర్చయానికి పంపబడలేదు",
     "tp_qty": "పరిమాణం",
     "tp_total": "మొత్తం",
-    "tp_price": "ధర"
+    "tp_price": "ధర",
+    "btn_show_products": "ఉత్పత్తులను చూపించు"
 }

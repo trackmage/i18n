@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Még nem küldték el az árut",
     "tp_qty": "Mennyiség",
     "tp_total": "Összesen",
-    "tp_price": "Ár"
+    "tp_price": "Ár",
+    "btn_show_products": "Termékek megjelenítése"
 }

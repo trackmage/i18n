@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Vēl nav nosūtīta prece",
     "tp_qty": "Daudzums",
     "tp_total": "Kopā",
-    "tp_price": "Cena"
+    "tp_price": "Cena",
+    "btn_show_products": "Rādīt produktus"
 }

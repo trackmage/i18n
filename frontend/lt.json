@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Dar nepristatyta prekė",
     "tp_qty": "Kiekis",
     "tp_total": "Iš viso",
-    "tp_price": "Kaina"
+    "tp_price": "Kaina",
+    "btn_show_products": "Rodyti produktus"
 }

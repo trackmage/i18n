@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Aínda non se enviaron os produtos",
     "tp_qty": "Cantidade",
     "tp_total": "Total",
-    "tp_price": "Prezo"
+    "tp_price": "Prezo",
+    "btn_show_products": "Mostrar produtos"
 }

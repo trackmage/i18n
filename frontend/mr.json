@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "आता तपासा न लागलेले वस्तू नाहीत",
     "tp_qty": "मात्रा",
     "tp_total": "एकूण",
-    "tp_price": "किंमत"
+    "tp_price": "किंमत",
+    "btn_show_products": "उत्पादने दाखवा"
 }

@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Encara no s'han enviat els productes",
     "tp_qty": "Quantitat",
     "tp_total": "Total",
-    "tp_price": "Preu"
+    "tp_price": "Preu",
+    "btn_show_products": "Mostra productes"
 }

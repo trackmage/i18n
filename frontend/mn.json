@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Өгөгдөлд хүргэгдээгүй бараа",
     "tp_qty": "Мөнгөн дүн",
     "tp_total": "Нийт",
-    "tp_price": "Үнэ"
+    "tp_price": "Үнэ",
+    "btn_show_products": "Бараануудыг харуулах"
 }

@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Goedere nog nie gestuur nie",
     "tp_qty": "Hoeveelheid",
     "tp_total": "Totaal",
-    "tp_price": "Prys"
+    "tp_price": "Prys",
+    "btn_show_products": "Wys produkte"
 }

@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "මෙම දැන්වීම් නොමැත",
     "tp_qty": "ප්‍රමාණය",
     "tp_total": "මුලු එකතුව",
-    "tp_price": "මිල"
+    "tp_price": "මිල",
+    "btn_show_products": "නිෂ්පාති පෙන්වන්න"
 }

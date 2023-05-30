@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "பொருட்கள் இன்னும் அனுப்பப்படவில்லை",
     "tp_qty": "அளவு",
     "tp_total": "மொத்தம்",
-    "tp_price": "விலை"
+    "tp_price": "விலை",
+    "btn_show_products": "பொருட்களை காட்டு"
 }

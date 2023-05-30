@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Još uvijek nisu poslate robe",
     "tp_qty": "Količina",
     "tp_total": "Ukupno",
-    "tp_price": "Cijena"
+    "tp_price": "Cijena",
+    "btn_show_products": "Prikaži proizvode"
 }

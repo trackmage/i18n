@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Жаңа мақсат таратылған жоқ",
     "tp_qty": "Саны",
     "tp_total": "Жалпы",
-    "tp_price": "Баға"
+    "tp_price": "Баға",
+    "btn_show_products": "Әзірлеу өнімдерін көрсету"
 }

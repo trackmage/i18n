@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Cha robh na toraidhean fhathast air an cur seachad",
     "tp_qty": "Meud",
     "tp_total": "Iomlan",
-    "tp_price": "Prìs"
+    "tp_price": "Prìs",
+    "btn_show_products": "Seall toraidhean"
 }

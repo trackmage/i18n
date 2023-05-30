@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "এখনো পণ্য পাঠানো হোৱা নাই",
     "tp_qty": "পৰিমাণ",
     "tp_total": "মুঠ দাম",
-    "tp_price": "মূল্য"
+    "tp_price": "মূল্য",
+    "btn_show_products": "পণ্য প্ৰদৰ্শন কৰক"
 }

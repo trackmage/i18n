@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "מוצרים עדיין לא נשלחו",
     "tp_qty": "כמות",
     "tp_total": "סך הכל",
-    "tp_price": "מחיר"
+    "tp_price": "מחיר",
+    "btn_show_products": "הצג מוצרים"
 }

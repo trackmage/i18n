@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Сеуште не испратени стоки",
     "tp_qty": "Количина",
     "tp_total": "Вкупно",
-    "tp_price": "Цена"
+    "tp_price": "Цена",
+    "btn_show_products": "Прикажи производи"
 }

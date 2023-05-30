@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Nog niet verzonden goederen",
     "tp_qty": "Aantal",
     "tp_total": "Totaal",
-    "tp_price": "Prijs"
+    "tp_price": "Prijs",
+    "btn_show_products": "Toon producten"
 }

@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Още не е изпратен стоката",
     "tp_qty": "Количество",
     "tp_total": "Общо",
-    "tp_price": "Цена"
+    "tp_price": "Цена",
+    "btn_show_products": "Покажи продукти"
 }

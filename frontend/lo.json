@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "ຍັງບໍ່ມີການສົ່ງສັນຍາ",
     "tp_qty": "ຈຳນວນ",
     "tp_total": "ລວມ",
-    "tp_price": "ລາຄາ"
+    "tp_price": "ລາຄາ",
+    "btn_show_products": "ເບິ່ງສິນຄ້າ"
 }

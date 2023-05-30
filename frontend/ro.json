@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Bunuri încă nesendate",
     "tp_qty": "Cantitate",
     "tp_total": "Total",
-    "tp_price": "Preț"
+    "tp_price": "Preț",
+    "btn_show_products": "Afișați produsele"
 }

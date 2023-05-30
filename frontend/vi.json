@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Chưa chuyển hàng",
     "tp_qty": "Số lượng",
     "tp_total": "Tổng",
-    "tp_price": "Giá"
+    "tp_price": "Giá",
+    "btn_show_products": "Hiển thị sản phẩm"
 }

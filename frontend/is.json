@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Vara enn ekki send",
     "tp_qty": "Fjöldi",
     "tp_total": "Samtals",
-    "tp_price": "Verð"
+    "tp_price": "Verð",
+    "btn_show_products": "Sýna vörur"
 }

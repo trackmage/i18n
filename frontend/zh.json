@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "尚未發貨",
     "tp_qty": "數量",
     "tp_total": "總數",
-    "tp_price": "價格"
+    "tp_price": "價格",
+    "btn_show_products": "顯示產品"
 }

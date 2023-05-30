@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "아직 발송되지 않은 상품",
     "tp_qty": "수량",
     "tp_total": "합계",
-    "tp_price": "가격"
+    "tp_price": "가격",
+    "btn_show_products": "제품 보기"
 }

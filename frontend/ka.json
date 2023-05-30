@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "ჯერაც არ გარანტია დაკავებული ორდერი",
     "tp_qty": "რ-ბა",
     "tp_total": "ჯამი",
-    "tp_price": "ფასი"
+    "tp_price": "ფასი",
+    "btn_show_products": "პროდუქტების ჩვენება"
 }

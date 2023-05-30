@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "السلع غير مرسلة بعد",
     "tp_qty": "الكمية",
     "tp_total": "المجموع",
-    "tp_price": "السعر"
+    "tp_price": "السعر",
+    "btn_show_products": "إظهار المنتجات"
 }

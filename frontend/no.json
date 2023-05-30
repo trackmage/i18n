@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Varer ennå ikke sendt",
     "tp_qty": "Antall",
     "tp_total": "Totalt",
-    "tp_price": "Pris"
+    "tp_price": "Pris",
+    "btn_show_products": "Vis produkter"
 }

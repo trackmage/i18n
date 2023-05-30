@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Ακόμα δεν έχουν σταλεί τα αγαθά",
     "tp_qty": "Ποσότητα",
     "tp_total": "Σύνολο",
-    "tp_price": "Τιμή"
+    "tp_price": "Τιμή",
+    "btn_show_products": "Εμφάνιση προϊόντων"
 }

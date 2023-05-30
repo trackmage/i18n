@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Мәзәк кабыл ителмәгәндәр",
     "tp_qty": "Микдары",
     "tp_total": "Жами",
-    "tp_price": "Баңасы"
+    "tp_price": "Баңасы",
+    "btn_show_products": "Продуктларны көрсәтү"
 }

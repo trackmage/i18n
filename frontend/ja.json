@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "まだ商品が発送されていません",
     "tp_qty": "数量",
     "tp_total": "合計",
-    "tp_price": "価格"
+    "tp_price": "価格",
+    "btn_show_products": "製品を表示する"
 }

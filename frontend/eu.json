@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Oraindik bidalitako produkturik ez",
     "tp_qty": "Kantitatea",
     "tp_total": "Guztira",
-    "tp_price": "Prezioa"
+    "tp_price": "Prezioa",
+    "btn_show_products": "Produktuak erakutsi"
 }

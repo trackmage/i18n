@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "สินค้ายังไม่ได้ส่ง",
     "tp_qty": "จำนวน",
     "tp_total": "รวม",
-    "tp_price": "ราคา"
+    "tp_price": "ราคา",
+    "btn_show_products": "แสดงสินค้า"
 }

@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Nid yw'r nwyddau wedi'u hanfon eto",
     "tp_qty": "Nifer",
     "tp_total": "Cyfanswm",
-    "tp_price": "Pris"
+    "tp_price": "Pris",
+    "btn_show_products": "Dangos cynnyrch"
 }

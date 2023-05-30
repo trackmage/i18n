@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Zboží ještě nebylo odesláno",
     "tp_qty": "Množství",
     "tp_total": "Celkem",
-    "tp_price": "Cena"
+    "tp_price": "Cena",
+    "btn_show_products": "Zobrazit produkty"
 }

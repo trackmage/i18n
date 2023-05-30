@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Товары яшчэ не адпраўлены",
     "tp_qty": "Колькасць",
     "tp_total": "Усяго",
-    "tp_price": "Цана"
+    "tp_price": "Цана",
+    "btn_show_products": "Паказаць прадукты"
 }

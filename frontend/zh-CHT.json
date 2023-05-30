@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "尚未发货",
     "tp_qty": "数量",
     "tp_total": "总计",
-    "tp_price": "价格"
+    "tp_price": "价格",
+    "btn_show_products": "显示产品"
 }

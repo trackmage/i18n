@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Mhux imħallsa għad-dejjem",
     "tp_qty": "QTY",
     "tp_total": "Total",
-    "tp_price": "Prezz"
+    "tp_price": "Prezz",
+    "btn_show_products": "Uri l-prodotti"
 }

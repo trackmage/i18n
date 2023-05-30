@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "अभी तक सामान भेजा नहीं गया है",
     "tp_qty": "मात्रा",
     "tp_total": "कुल",
-    "tp_price": "कीमत"
+    "tp_price": "कीमत",
+    "btn_show_products": "उत्पाद दिखाएं"
 }

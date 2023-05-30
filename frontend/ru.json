@@ -64,5 +64,6 @@
   "tp_not_yet_fulfilled": "Товары еще не отправлены",
   "tp_qty": "Кол-во",
   "tp_total": "Сумма",
-  "tp_price": "Цена"
+  "tp_price": "Цена",
+  "btn_show_products": "Показать продукты"
 }

@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Produkte akoma nuk janë dërguar",
     "tp_qty": "Sasia",
     "tp_total": "Totali",
-    "tp_price": "Çmimi"
+    "tp_price": "Çmimi",
+    "btn_show_products": "Shfaq produktet"
 }

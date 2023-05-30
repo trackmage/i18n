@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Hech qanday mahsulot hali yuborilmadi",
     "tp_qty": "Miqdori",
     "tp_total": "Jami",
-    "tp_price": "Narxi"
+    "tp_price": "Narxi",
+    "btn_show_products": "Mahsulotlarni ko'rsatish"
 }

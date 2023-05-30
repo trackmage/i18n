@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Tavaraa ei ole vielä lähetetty",
     "tp_qty": "Määrä",
     "tp_total": "Yhteensä",
-    "tp_price": "Hinta"
+    "tp_price": "Hinta",
+    "btn_show_products": "Näytä tuotteet"
 }

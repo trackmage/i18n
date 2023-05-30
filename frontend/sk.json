@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Ešte neodoslané tovary",
     "tp_qty": "Množstvo",
     "tp_total": "Celkom",
-    "tp_price": "Cena"
+    "tp_price": "Cena",
+    "btn_show_products": "Zobraziť produkty"
 }

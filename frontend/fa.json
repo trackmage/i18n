@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "هنوز کالا ارسال نشده است",
     "tp_qty": "تعداد",
     "tp_total": "کل",
-    "tp_price": "قیمت"
+    "tp_price": "قیمت",
+    "btn_show_products": "نمایش محصولات"
 }

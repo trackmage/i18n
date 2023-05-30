@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Belum dikirim barang",
     "tp_qty": "Kuantitas",
     "tp_total": "Total",
-    "tp_price": "Harga"
+    "tp_price": "Harga",
+    "btn_show_products": "Tampilkan produk"
 }

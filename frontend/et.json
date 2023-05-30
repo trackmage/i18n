@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Tellitud kaupu pole veel saadetud",
     "tp_qty": "Kogus",
     "tp_total": "Kokku",
-    "tp_price": "Hind"
+    "tp_price": "Hind",
+    "btn_show_products": "Näita tooteid"
 }

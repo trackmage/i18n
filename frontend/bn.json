@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "এখনো পণ্য প্রেরিত হয়নি",
     "tp_qty": "পরিমাণ",
     "tp_total": "মোট",
-    "tp_price": "মূল্য"
+    "tp_price": "মূল্য",
+    "btn_show_products": "পণ্য দেখান"
 }

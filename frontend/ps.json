@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "ده هنوز د تولیدونو نه خوړل شوی",
     "tp_qty": "مقدار",
     "tp_total": "ټول",
-    "tp_price": "قيمت"
+    "tp_price": "قيمت",
+    "btn_show_products": "محصولات ښوونکی"
 }

@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Henüz gönderilmemiş ürünler",
     "tp_qty": "Miktar",
     "tp_total": "Toplam",
-    "tp_price": "Fiyat"
+    "tp_price": "Fiyat",
+    "btn_show_products": "Ürünleri göster"
 }

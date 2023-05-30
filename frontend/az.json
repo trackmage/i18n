@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Hələ mal göndərilmədi",
     "tp_qty": "Say",
     "tp_total": "Ümumi",
-    "tp_price": "Qiymət"
+    "tp_price": "Qiymət",
+    "btn_show_products": "Məhsulları göstər"
 }

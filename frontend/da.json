@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "Vare(r) endnu ikke afsendt",
     "tp_qty": "Antal",
     "tp_total": "Total",
-    "tp_price": "Pris"
+    "tp_price": "Pris",
+    "btn_show_products": "Vis produkter"
 }

@@ -64,5 +64,6 @@
     "tp_not_yet_fulfilled": "अहिले समान पठाइएको छैन",
     "tp_qty": "मात्रा",
     "tp_total": "कुल",
-    "tp_price": "मूल्य"
+    "tp_price": "मूल्य",
+    "btn_show_products": "उत्पादनहरू देखाउनुहोस्"
 }
