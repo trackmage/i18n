@@ -61,8 +61,9 @@
   "email": "E-mail",
   "last_update": "Última atualização",
   "btn_hide_products": "Ocultar produtos",
-  "tp_not_yet_fulfilled": "Itens de pedido ainda não atendidos",
+  "tp_not_yet_fulfilled": "Mercadorias ainda não enviadas",
   "tp_qty": "quantidade",
   "tp_total": "Total",
-  "tp_price": "Preço"
+  "tp_price": "Preço",
+  "btn_show_products": "Exibir produtos"
 }
