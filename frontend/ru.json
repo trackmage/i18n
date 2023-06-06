@@ -61,8 +61,9 @@
   "email": "Эл. адрес",
   "last_update": "Последнее обновление",
   "btn_hide_products": "Скрыть продукты",
-  "tp_not_yet_fulfilled": "Еще не отправленные товары из заказа",
+  "tp_not_yet_fulfilled": "Товары еще не отправлены",
   "tp_qty": "Кол-во",
   "tp_total": "Сумма",
-  "tp_price": "Цена"
+  "tp_price": "Цена",
+  "btn_show_products": "Показать продукты"
 }
