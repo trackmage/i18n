@@ -1,5 +1,10 @@
 [
   {
+    "name": "English",
+    "code": "en",
+    "active": "yes"
+  },
+  {
     "name": "Afrikaans",
     "code": "af",
     "active": "yes"
@@ -257,7 +262,7 @@
   {
     "name": "Greek",
     "code": "el",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Gujarati",
