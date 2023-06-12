@@ -48,7 +48,7 @@
     "description_transit_limit_exceeded": "Pakken har været i transit længere end normal transit tid tillader. Kontakt venligst bæreren.",
     "description_unsuccessful_delivery": "Bæreren forsøgte at levere, men det lykkedes ikke, og han efterlader normalt en meddelelse og vil forsøge at levere igen.",
     "description_error": "Ikke i stand til at spore dette kuld på grund af tekniske problemer. Venligst genspor.",
-    "description_exception": "Toldhold eller eventuelle forsendelsesundtagelser. Kontakt venligst bæreren.",
+    "description_exception": "Andre forsendelsesundtagelser. Kontakt transportøren.",
     "description_cancelled": "Leveringen er blevet annulleret.",
     "description_delivered": "Pakken er blevet leveret.",
     "description_available_for_pickup": "Pakken er tilgængelig til afhentning fra fragtfirmaets facilitet.",

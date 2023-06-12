@@ -48,7 +48,7 @@
     "description_transit_limit_exceeded": "החבילה נמצאת במסע לזמן רב יותר מאשר הזמן התקני למסע. נא ליצור קשר עם המוביל.",
     "description_unsuccessful_delivery": "המוביל ניסה למסור, אך כשל ובדרך כלל משאיר הודעה ומנסה למסור שוב.",
     "description_error": "לא ניתן לעקוב אחרי החבילה עקב בעיות טכניות. נא לעדכן מחדש.",
-    "description_exception": "תקלה במכס או כל חריגה במשלוח. נא ליצור קשר עם המוביל.",
+    "description_exception": "חריגות משלוח אחרות. אנא צרו קשר עם המוביל.",
     "description_cancelled": "המשלוח בוטל.",
     "description_delivered": "החבילה נמסרה.",
     "description_available_for_pickup": "החבילה זמינה לאיסוף ממתקן המוביל.",

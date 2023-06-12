@@ -48,7 +48,7 @@
     "description_transit_limit_exceeded": "Balík bol v tranzite oveľa dlhšie ako normálny tranzitný čas umožňuje. Kontaktujte prosím dopravcu.",
     "description_unsuccessful_delivery": "Dopravca sa pokúsil doručiť, ale zlyhal a zvyčajne nechá oznámenie a pokúsi sa doručiť znova.",
     "description_error": "Nie je možné sledovať tento balík z dôvodu technických problémov. Prosím, opäť sledujte.",
-    "description_exception": "Zadržanie colným úradom alebo akékoľvek výnimočné situácie pri preprave. Prosím, kontaktujte dopravcu.",
+    "description_exception": "Ďalšie výnimky z prepravy. Kontaktujte dopravcu.",
     "description_cancelled": "Doručenie bolo zrušené.",
     "description_delivered": "Balík bol doručený.",
     "description_available_for_pickup": "Balík je k dispozícii na odber v zariadení prepravcu.",

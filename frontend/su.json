@@ -48,7 +48,7 @@
     "description_transit_limit_exceeded": "Paket acan tuang ngalalana jauh leuwih lama ti waktos transit normal. Harap kontak cari.",
     "description_unsuccessful_delivery": "Carrier ngajaba ngerawat, nanging gagal, sareng biasanana ninggalkeun keterangan sareng acan nyoba ngerawat deui.",
     "description_error": "Henteuna manggihan ieu paket sabab kasalahan teknis. Mangga re-track deui.",
-    "description_exception": "Paket kénéh dipegat atanapi raronda pengiriman lianna. Mangga kontak cari.",
+    "description_exception": "Pangecualian pengiriman sanés. Punten wartosan pamawa.",
     "description_cancelled": "Pengiriman geus dibolaykeun.",
     "description_delivered": "Paket geus diserahkan.",
     "description_available_for_pickup": "Paket bisa dipaké diangkat tina pangiriman.",

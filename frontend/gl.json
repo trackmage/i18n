@@ -48,7 +48,7 @@
     "description_transit_limit_exceeded": "O paquete estivo en tránsito durante máis tempo do que o permitido normalmente para o tránsito. Por favor, póñase en contacto co transportista.",
     "description_unsuccessful_delivery": "O transportista tentou entregar, pero non conseguiu, e normalmente deixa un aviso e volverá a intentalo.",
     "description_error": "Non é posible rastrexar este paquete debido a problemas técnicos. Por favor, intente rastrexalo de novo.",
-    "description_exception": "Retención aduaneira ou calquera excepción no envío. Por favor, póñase en contacto co transportista.",
+    "description_exception": "Outras excepcións de envío. Póñase en contacto co transportista.",
     "description_cancelled": "O envío foi cancelado.",
     "description_delivered": "O paquete foi entregado.",
     "description_available_for_pickup": "O paquete está dispoñible para recoller na instalación do transportista.",

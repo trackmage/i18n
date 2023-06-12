@@ -48,7 +48,7 @@
     "description_transit_limit_exceeded": "該包裹的運輸時間超過了正常的運輸時間。請聯繫運輸公司。",
     "description_unsuccessful_delivery": "承運人嘗試進行送貨，但未成功，通常會留下通知並再次嘗試進行送貨。",
     "description_error": "由於技術問題，無法追踪該包裹。請重新追踪。",
-    "description_exception": "海關扣留或任何運輸例外情況。請聯繫運輸公司。",
+    "description_exception": "其他運輸例外。請聯繫承運人。",
     "description_cancelled": "送貨已取消。",
     "description_delivered": "包裹已送達。",
     "description_available_for_pickup": "包裹可在快遞公司的設施進行取貨。",

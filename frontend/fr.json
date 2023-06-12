@@ -48,7 +48,7 @@
   "description_transit_limit_exceeded": "Le paquet a transité plus longtemps que prévu par le temps de transit normal. Veuillez contacter le transporteur.",
   "description_unsuccessful_delivery": "Le transporteur a essayé de procéder à la livraison, mais n'a pas obtenu de réponse, et en règle générale, dépose un avis de passage et tentera à nouveau de livrer.",
   "description_error": "Impossible de suivre ce colis en raison de problèmes techniques. Veuillez refaire le suivi.",
-  "description_exception": "La douane détient ou refuse toute autorisation d'expédition. Veuillez contacter le transporteur.",
+  "description_exception": "Autres exceptions d'expédition. Veuillez contacter le transporteur.",
   "description_cancelled": "La livraison a été annulée.",
   "description_delivered": "Le colis a été livré.",
   "description_available_for_pickup": "Le colis est disponible pour enlèvement dans les locaux du transporteur.",

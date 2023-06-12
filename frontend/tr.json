@@ -48,7 +48,7 @@
     "description_transit_limit_exceeded": "Paket normal transit süresinden çok daha uzun bir süredir transitte. Lütfen taşıyıcıyla iletişime geçin.",
     "description_unsuccessful_delivery": "Taşıyıcı teslim etmeye çalıştı, ancak başarısız oldu ve genellikle bir bildirim bırakır ve tekrar denemeye çalışır.",
     "description_error": "Teknik sorunlar nedeniyle bu paket izlenemiyor. Lütfen yeniden izleyin.",
-    "description_exception": "Gümrük tutanağı veya herhangi bir nakliye istisnası. Lütfen taşıyıcıyla iletişime geçin.",
+    "description_exception": "Diğer nakliye istisnaları. Lütfen taşıyıcıya başvurun.",
     "description_cancelled": "Teslimat iptal edildi.",
     "description_delivered": "Paket teslim edildi.",
     "description_available_for_pickup": "Paket, kurye teslimat noktasından teslim alınmak üzere hazır durumda.",

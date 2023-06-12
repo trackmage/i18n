@@ -48,7 +48,7 @@
     "description_transit_limit_exceeded": "يوجد الطرد في الطريق لفترة أطول مما يسمح به الوقت العادي. يرجى الاتصال بالناقل.",
     "description_unsuccessful_delivery": "حاول الناقل تسليم الطرد وفشل، وعادة ما يترك إشعارًا ويحاول إعادة التسليم.",
     "description_error": "غير قادر على تتبع هذا الطرد بسبب مشكلات تقنية. يرجى إعادة التتبع.",
-    "description_exception": "يتم وضع بريد كتلة أو استثناء لأي تحديثات الشحن. يرجى الاتصال بالناقل.",
+    "description_exception": "استثناءات الشحن الأخرى. يرجى الاتصال بالناقل.",
     "description_cancelled": "تم إلغاء التسليم.",
     "description_delivered": "تم تسليم الطرد.",
     "description_available_for_pickup": "يمكن استلام الطرد من مرفق الناقل.",

@@ -48,7 +48,7 @@
     "description_transit_limit_exceeded": "Pakiti imekuwa katika usafiri kwa muda mrefu kuliko kipindi kawaida cha usafiri kinachoruhusiwa. Tafadhali wasiliana na msafirishaji.",
     "description_unsuccessful_delivery": "Msafirishaji alijaribu kuleta pakiti, lakini alishindwa, na kawaida anaacha notisi na atajaribu kupeleka tena.",
     "description_error": "Haiwezekani kufuatilia pakiti hii kwa sababu ya masuala ya kiufundi. Tafadhali fuatilia tena.",
-    "description_exception": "Mali za forodha au ubaguzi wa usafirishaji. Tafadhali wasiliana na msafirishaji.",
+    "description_exception": "Isipokuwa zingine za usafirishaji. Tafadhali wasiliana na mtoaji.",
     "description_cancelled": "Uwasilishaji umefutwa.",
     "description_delivered": "Kifurushi kimefikishwa.",
     "description_available_for_pickup": "Kifurushi kinapatikana kuchukuliwa kutoka kwa vituo vya usafirishaji.",

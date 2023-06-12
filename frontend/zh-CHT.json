@@ -48,7 +48,7 @@
     "description_transit_limit_exceeded": "包裹的在途时间已超过正常在途时间。请联系承运人。",
     "description_unsuccessful_delivery": "承运人尝试投递但未成功，并通常会留下通知并再次尝试投递。",
     "description_error": "由于技术问题，无法跟踪此包裹。请重新跟踪。",
-    "description_exception": "海关保留或任何运输异常情况。请联系承运人。",
+    "description_exception": "其他运输例外。请联系承运人。",
     "description_cancelled": "该订单已取消。",
     "description_delivered": "包裹已送达。",
     "description_available_for_pickup": "包裹可在承运人设施内提取。",

@@ -48,7 +48,7 @@
     "description_transit_limit_exceeded": "El paquet ha estat en trànsit durant molt més temps del que permet el temps de trànsit normal. Si us plau, posi's en contacte amb el transportista.",
     "description_unsuccessful_delivery": "El transportista va intentar lliurar, però va fallar i normalment deixa un avís i intentarà lliurar de nou.",
     "description_error": "No es pot fer el seguiment d'aquest paquet a causa de problemes tècnics. Si us plau, torneu a intentar el seguiment.",
-    "description_exception": "Retenció de duanes o excepcions d'enviament. Si us plau, poseu-vos en contacte amb el transportista.",
+    "description_exception": "Altres excepcions d’enviament. Poseu-vos en contacte amb el transportista.",
     "description_cancelled": "El lliurament ha estat cancel·lat.",
     "description_delivered": "El paquet ha estat entregat.",
     "description_available_for_pickup": "El paquet està disponible per a la recollida a les instal·lacions del transportista.",

@@ -48,7 +48,7 @@
     "description_transit_limit_exceeded": "Gói hàng đã trong trạng thái di chuyển lâu hơn thời gian di chuyển bình thường cho phép. Vui lòng liên hệ với đơn vị vận chuyển.",
     "description_unsuccessful_delivery": "Đơn vị vận chuyển đã cố gắng giao hàng, nhưng không thành công và thường để lại thông báo và sẽ thử giao hàng lần nữa.",
     "description_error": "Không thể theo dõi được bưu kiện này do sự cố kỹ thuật. Vui lòng theo dõi lại.",
-    "description_exception": "Giữ hàng của hải quan hoặc bất kỳ ngoại lệ vận chuyển nào. Vui lòng liên hệ với đơn vị vận chuyển.",
+    "description_exception": "Ngoại lệ vận chuyển khác. Vui lòng liên hệ với người vận chuyển.",
     "description_cancelled": "Đơn hàng đã bị hủy.",
     "description_delivered": "Gói hàng đã được giao.",
     "description_available_for_pickup": "Gói hàng đã sẵn sàng để được lấy từ cơ sở của nhà vận chuyển.",
