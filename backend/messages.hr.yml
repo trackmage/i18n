@@ -1,3 +1,3 @@
 public_tracking_page:
     search:
-        email_response: 'Radi sigurnosti, poslali smo vam poveznicu za praćenje vaše narudžbe na vašu e-mail adresu (ako postoji). <br /> Provjerite svoj e-mail kako biste vidjeli gdje se vaš paket nalazi.'
+        email_response: 'Iz sigurnosnih razloga poslali smo vašu vezu za praćenje na vašu e-poštu ( ako postoji ). < br / > Molimo provjerite svoju e-poštu da biste vidjeli gdje je vaša parcela.'
