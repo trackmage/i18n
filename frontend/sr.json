@@ -48,7 +48,7 @@
     "description_transit_limit_exceeded": "Paket je bio u tranzitu duže od normalnog tranzitnog vremena. Molimo kontaktirajte prevoznika.",
     "description_unsuccessful_delivery": "Prevoznik je pokušao isporučiti, ali nije uspio i obično ostavlja obavijest i ponovno će pokušati isporučiti.",
     "description_error": "Nije moguće pratiti ovaj paket zbog tehničkih problema. Molimo ponovo pratite.",
-    "description_exception": "Zadržavanje carine ili bilo kojih iznimki u isporuci. Molimo kontaktirajte prevoznika.",
+    "description_exception": "Druga izuzetak u isporuci, molimo kontaktirajte prevoznika.",
     "description_cancelled": "Isporuka je otkazana.",
     "description_delivered": "Paket je dostavljen.",
     "description_available_for_pickup": "Paket je dostupan za preuzimanje sa odgovarajućeg mesta dostavljača.",
