@@ -187,77 +187,77 @@
   {
     "name": "Albanian",
     "code": "sq",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Assamese",
     "code": "as",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Azerbaijani",
     "code": "az",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Basque",
     "code": "eu",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Belarusian",
     "code": "be",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Bengali",
     "code": "bn",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Bosnian",
     "code": "bs",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Burmese",
     "code": "my",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Croatian",
     "code": "hr",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Dutch",
     "code": "nl",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Estonian",
     "code": "et",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Filipino (Tagalog)",
     "code": "tl",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Finnish",
     "code": "fi",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Georgian",
     "code": "ka",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "German",
     "code": "de",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Greek",
@@ -267,212 +267,212 @@
   {
     "name": "Gujarati",
     "code": "gu",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Haitian Creole",
     "code": "ht",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Hausa",
     "code": "ha",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Hungarian",
     "code": "hu",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Icelandic",
     "code": "is",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Igbo",
     "code": "ig",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Indonesian",
     "code": "id",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Irish",
     "code": "ga",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Italian",
     "code": "it",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Japanese",
     "code": "ja",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Javanese",
     "code": "jv",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Kannada",
     "code": "kn",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Kazakh",
     "code": "kk",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Khmer",
     "code": "km",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Kinyarwanda",
     "code": "rw",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Korean",
     "code": "ko",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Kurdish (Sorani)",
     "code": "ku",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Kyrgyz",
     "code": "ky",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Lao",
     "code": "lo",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Latvian",
     "code": "lv",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Lithuanian",
     "code": "lt",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Luxembourgish",
     "code": "lb",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Malagasy",
     "code": "mg",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Malayalam",
     "code": "ml",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Maltese",
     "code": "mt",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Maori",
     "code": "mi",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Mongolian",
     "code": "mn",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Oriya",
     "code": "or",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Oromo",
     "code": "om",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Pashto",
     "code": "ps",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Samoan",
     "code": "sm",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Scots Gaelic",
     "code": "gd",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Somali",
     "code": "so",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Shona",
     "code": "sn",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Sindhi",
     "code": "sd",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Sinhala",
     "code": "si",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Turkmen",
     "code": "tk",
-    "active": "no"
+    "active": "yes""
   },
   {
     "name": "Tajik",
     "code": "tg",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Tamil",
     "code": "ta",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Tatar",
     "code": "tt",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Telugu",
     "code": "te",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Thai",
     "code": "th",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Tigrinya",
@@ -487,7 +487,7 @@
   {
     "name": "Uzbek",
     "code": "uz",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Wolof",
@@ -497,21 +497,21 @@
   {
     "name": "Xhosa",
     "code": "xh",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Yiddish",
     "code": "yi",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Yoruba",
     "code": "yo",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Zulu",
     "code": "zu",
-    "active": "no"
+    "active": "yes"
   }
 ]
