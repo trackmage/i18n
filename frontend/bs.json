@@ -1,4 +1,4 @@
- {
+  {
     "search_button": "Nova pretraga",
     "review_question": "Kako smo uspjeli?",
     "leave_review": "Ostavite recenziju",
@@ -20,7 +20,7 @@
     "connents_required_message": "Molim te, unesi komentar!",
     "overall_rating": "Ukupna ocjena",
     "submit_review": "Pošalji pregled",
-    "search_title": "Molimo unesite svoj broj za praćenje, vaš broj narudžbe ili vašu e-mail adresu i dobijte rezultate praćenja.",
+    "search_title": "Molimo unesite svoj broj praćenja, broj narudžbe ili vašu e-mail adresu i dobijte rezultate praćenja.",
     "search_input_placeholder": "Molimo unesite svoj broj praćenja, broj narudžbe ili vašu e-mail adresu.",
     "track_button": "Tražiti",
     "back_to_search_button": "Natrag na pretragu",

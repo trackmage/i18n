@@ -1,4 +1,4 @@
-  {
+ {
     "search_button": "Nova pretraga",
     "review_question": "Kako smo se snašli?",
     "leave_review": "Ostavite recenziju",
@@ -25,7 +25,7 @@
     "track_button": "traži",
     "back_to_search_button": "Natrag na pretragu",
     "no_info": "Nema informacija",
-    "pre_transit": "Prije tranzita",
+    "pre_transit": "Prije tranzita,",
     "delivery_in_progress": "Isporuka u tijeku",
     "in_transit": "U tranzitu",
     "customs_clearance": "Carinjenje",

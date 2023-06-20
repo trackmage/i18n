@@ -15,7 +15,7 @@
     "active": "yes"
   },
   {
-    "name": "български",
+    "name": "Български",
     "code": "bg",
     "active": "yes"
   },
@@ -65,7 +65,7 @@
     "active": "yes"
   },
   {
-    "name": "македонски",
+    "name": "Македонски",
     "code": "mk",
     "active": "yes"
   },
@@ -480,7 +480,7 @@
     "active": "no"
   },
   {
-    "name": "lea fakatonga",
+    "name": "Lea fakatonga",
     "code": "to",
     "active": "no"
   },
