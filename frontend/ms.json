@@ -48,7 +48,7 @@
     "description_transit_limit_exceeded": "Bungkusan telah dalam perjalanan melebihi masa perjalanan normal yang dibenarkan. Sila hubungi pembawa.",
     "description_unsuccessful_delivery": "Pembawa gagal menghantar dan biasanya meninggalkan notis dan akan mencuba menghantar semula.",
     "description_error": "Tidak dapat menjejaki bungkusan ini disebabkan masalah teknikal. Sila jejak semula.",
-    "description_exception": "Tahanan kastam atau sebarang pengecualian penghantaran. Sila hubungi pembawa.",
+    "description_exception": "Pengecualian penghantaran lain. Sila hubungi pembawa.",
     "description_cancelled": "Penghantaran telah dibatalkan.",
     "description_delivered": "Pakej telah dihantar.",
     "description_available_for_pickup": "Pakej tersedia untuk dikutip dari fasiliti penghantar.",

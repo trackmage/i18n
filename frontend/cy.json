@@ -48,7 +48,7 @@
     "description_transit_limit_exceeded": "Mae'r pecyn wedi bod mewn trawsit amser hirach na'r hyn a ganiateir fel arfer. Cysylltwch â'r gwasanaethwr.",
     "description_unsuccessful_delivery": "Profodd y gwasanaethwr gyflwyno, ond methu, ac fel arfer bydd yn gadael rhybudd ac yn ceisio cyflwyno eto.",
     "description_error": "Methu olrhain y pecyn hwn oherwydd problemau technegol. Rhowch olwg eto.",
-    "description_exception": "Dal customs neu unrhyw eithriadau cludo. Cysylltwch â'r gwasanaethwr.",
+    "description_exception": "Eithriadau cludo eraill. Cysylltwch â'r cludwr.",
     "description_cancelled": "Mae'r danfoniad wedi'i ganslo.",
     "description_delivered": "Mae'r pecyn wedi'i ddanfon.",
     "description_available_for_pickup": "Mae'r pecyn ar gael ar gyfer casglu o safle'r cludo. ",

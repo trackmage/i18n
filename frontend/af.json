@@ -48,7 +48,7 @@
     "description_transit_limit_exceeded": "Die pakket was langer in transit as wat die normale tyd toelaat. Kontak asseblief die vervoerder.",
     "description_unsuccessful_delivery": "Vervoerder het gepoog om af te lewer, maar dit het misluk, en laat gewoonlik 'n aanmelding agter en sal weer probeer om af te lewer.",
     "description_error": "Niet in staat om hierdie pakkie te volg as gevolg van tegniese probleme. Volg asseblief weer.",
-    "description_exception": "Doeane-opbrengs of enige vervoeruitsondering. Kontak asseblief die vervoerder.",
+    "description_exception": "Ander afleweringsuitsonderings. Kontak die draer.",
     "description_cancelled": "Die aflewering is gekanselleer.",
     "description_delivered": "Die pakket is afgelewer.",
     "description_available_for_pickup": "Die pakket is beskikbaar vir afhaal by die vervoerder se fasiliteit.",

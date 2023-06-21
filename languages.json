@@ -10,132 +10,132 @@
     "active": "yes"
   },
   {
-    "name": "Arabic",
+    "name": "العربية",
     "code": "ar",
     "active": "yes"
   },
   {
-    "name": "Bulgarian",
+    "name": "Български",
     "code": "bg",
     "active": "yes"
   },
   {
-    "name": "Catalan",
+    "name": "Català",
     "code": "ca",
     "active": "yes"
   },
   {
-    "name": "Chinese (Simplified)",
+    "name": "简体中文",
     "code": "zh-CHT",
     "active": "yes"
   },
   {
-    "name": "Chinese (Traditional)",
+    "name": "繁體中文",
     "code": "zh",
     "active": "yes"
   },
   {
-    "name": "Czech",
+    "name": "Čeština",
     "code": "cs",
     "active": "yes"
   },
   {
-    "name": "Danish",
+    "name": "Dansk",
     "code": "da",
     "active": "yes"
   },
   {
-    "name": "French",
+    "name": "Français",
     "code": "fr",
     "active": "yes"
   },
   {
-    "name": "Galician",
+    "name": "Galego",
     "code": "gl",
     "active": "yes"
   },
   {
-    "name": "Hebrew",
+    "name": "עברית",
     "code": "he",
     "active": "yes"
   },
   {
-    "name": "Hindi",
+    "name": "हिन्दी",
     "code": "hi",
     "active": "yes"
   },
   {
-    "name": "Macedonian",
+    "name": "Македонски",
     "code": "mk",
     "active": "yes"
   },
   {
-    "name": "Malay",
+    "name": "Bahasa Melayu",
     "code": "ms",
     "active": "yes"
   },
   {
-    "name": "Marathi",
+    "name": "मराठी",
     "code": "mr",
     "active": "yes"
   },
   {
-    "name": "Nepali",
+    "name": "नेपाली",
     "code": "ne",
     "active": "yes"
   },
   {
-    "name": "Norwegian",
+    "name": "Norsk",
     "code": "no",
     "active": "yes"
   },
   {
-    "name": "Persian (Farsi)",
+    "name": "فارسی",
     "code": "fa",
     "active": "yes"
   },
   {
-    "name": "Polish",
+    "name": "Polski",
     "code": "pl",
     "active": "yes"
   },
   {
-    "name": "Portuguese",
+    "name": "Português",
     "code": "pt",
     "active": "yes"
   },
   {
-    "name": "Punjabi",
+    "name": "ਪੰਜਾਬੀ",
     "code": "pa",
     "active": "yes"
   },
   {
-    "name": "Romanian",
+    "name": "Română",
     "code": "ro",
     "active": "yes"
   },
   {
-    "name": "Russian",
+    "name": "Русский",
     "code": "ru",
     "active": "yes"
   },
   {
-    "name": "Serbian",
+    "name": "Српски",
     "code": "sr",
     "active": "yes"
   },
   {
-    "name": "Slovak",
+    "name": "Slovenčina",
     "code": "sk",
     "active": "yes"
   },
   {
-    "name": "Slovenian",
+    "name": "Slovenščina",
     "code": "sl",
     "active": "yes"
   },
   {
-    "name": "Spanish",
+    "name": "Español",
     "code": "es",
     "active": "yes"
   },
@@ -145,349 +145,349 @@
     "active": "yes"
   },
   {
-    "name": "Swahili",
+    "name": "Kiswahili",
     "code": "sw",
     "active": "yes"
   },
   {
-    "name": "Swedish",
+    "name": "Svenska",
     "code": "sv",
     "active": "yes"
   },
   {
-    "name": "Turkish",
+    "name": "Türkçe",
     "code": "tr",
     "active": "yes"
   },
   {
-    "name": "Ukrainian",
+    "name": "Українська",
     "code": "uk",
     "active": "yes"
   },
   {
-    "name": "Urdu",
+    "name": "اردو",
     "code": "ur",
     "active": "yes"
   },
   {
-    "name": "Vietnamese",
+    "name": "Tiếng Việt",
     "code": "vi",
     "active": "yes"
   },
   {
-    "name": "Welsh",
+    "name": "Cymraeg",
     "code": "cy",
     "active": "yes"
   },
   {
-    "name": "Armenian",
+    "name": "հայերեն",
     "code": "hy",
     "active": "yes"
   },
   {
-    "name": "Albanian",
+    "name": "Shqip",
     "code": "sq",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Assamese",
+    "name": "অসমীয়া",
     "code": "as",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Azerbaijani",
+    "name": "Azərbaycan dili",
     "code": "az",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Basque",
+    "name": "Euskara",
     "code": "eu",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Belarusian",
+    "name": "Беларуская",
     "code": "be",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Bengali",
+    "name": "বাংলা",
     "code": "bn",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Bosnian",
+    "name": "Bosanski",
     "code": "bs",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Burmese",
+    "name": "ဗမာစာ",
     "code": "my",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Croatian",
+    "name": "Hrvatski",
     "code": "hr",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Dutch",
+    "name": "Nederlands",
     "code": "nl",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Estonian",
+    "name": "Eesti",
     "code": "et",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Filipino (Tagalog)",
     "code": "tl",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Finnish",
+    "name": "Suomi",
     "code": "fi",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Georgian",
+    "name": "ქართული",
     "code": "ka",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "German",
+    "name": "Deutsch",
     "code": "de",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Greek",
+    "name": "Ελληνικά",
     "code": "el",
     "active": "yes"
   },
   {
-    "name": "Gujarati",
+    "name": "ગુજરાતી",
     "code": "gu",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Haitian Creole",
+    "name": "Kreyòl Ayisyen",
     "code": "ht",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Hausa",
+    "name": "هَوُسَ",
     "code": "ha",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Hungarian",
+    "name": "Magyar",
     "code": "hu",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Icelandic",
+    "name": "Íslenska",
     "code": "is",
-    "active": "no"
+    "active": "yes"
   },
-  {
+   {
     "name": "Igbo",
     "code": "ig",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Indonesian",
+    "name": "Bahasa Indonesia",
     "code": "id",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Irish",
+    "name": "Gaeilge",
     "code": "ga",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Italian",
+    "name": "Italiano",
     "code": "it",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Japanese",
+    "name": "日本語",
     "code": "ja",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Javanese",
+    "name": "Basa Jawa",
     "code": "jv",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Kannada",
+    "name": "ಕನ್ನಡ",
     "code": "kn",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Kazakh",
+    "name": "Қазақ",
     "code": "kk",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Khmer",
+    "name": "ខ្មែរ",
     "code": "km",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Kinyarwanda",
     "code": "rw",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Korean",
+    "name": "한국어",
     "code": "ko",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Kurdish (Sorani)",
+    "name": "کوردی (سۆرانی)",
     "code": "ku",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Kyrgyz",
+    "name": "Кыргызча",
     "code": "ky",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Lao",
+    "name": "ລາວ",
     "code": "lo",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Latvian",
+    "name": "Latviešu",
     "code": "lv",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Lithuanian",
+    "name": "Lietuvių",
     "code": "lt",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Luxembourgish",
+    "name": "Lëtzebuergesch",
     "code": "lb",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Malagasy",
     "code": "mg",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Malayalam",
+    "name": "മലയാളം",
     "code": "ml",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Maltese",
+    "name": "Malti",
     "code": "mt",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Maori",
+    "name": "Māori",
     "code": "mi",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Mongolian",
+    "name": "Монгол",
     "code": "mn",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Oriya",
+    "name": "ଓଡ଼ିଆ",
     "code": "or",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Oromo",
+    "name": "Oromoo",
     "code": "om",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Pashto",
+    "name": "پښتو",
     "code": "ps",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Samoan",
+    "name": "Gagana Samoa",
     "code": "sm",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Scots Gaelic",
+    "name": "Gàidhlig na h-Alba",
     "code": "gd",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Somali",
+    "name": "Soomaali",
     "code": "so",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Shona",
+    "name": "chiShona",
     "code": "sn",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Sindhi",
+    "name": "سنڌي",
     "code": "sd",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Sinhala",
+    "name": "සිංහල",
     "code": "si",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Turkmen",
+    "name": "Türkmençe",
     "code": "tk",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Tajik",
+    "name": "Тоҷикӣ",
     "code": "tg",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Tamil",
+    "name": "தமிழ்",
     "code": "ta",
-    "active": "no"
+    "active": "yes"
   },
-  {
-    "name": "Tatar",
+   {
+    "name": "Татарча",
     "code": "tt",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Telugu",
+    "name": "తెలుగు",
     "code": "te",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Thai",
+    "name": "ไทย",
     "code": "th",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Tigrinya",
+    "name": "ትግርኛ",
     "code": "ti",
     "active": "no"
   },
   {
-    "name": "Tongan",
+    "name": "Lea fakatonga",
     "code": "to",
     "active": "no"
   },
   {
-    "name": "Uzbek",
+    "name": "Ўзбекча",
     "code": "uz",
-    "active": "no"
+    "active": "yes"
   },
   {
     "name": "Wolof",
@@ -495,23 +495,23 @@
     "active": "no"
   },
   {
-    "name": "Xhosa",
+    "name": "isiXhosa",
     "code": "xh",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Yiddish",
+    "name": "ייִדיש",
     "code": "yi",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Yoruba",
+    "name": "Yorùbá",
     "code": "yo",
-    "active": "no"
+    "active": "yes"
   },
   {
-    "name": "Zulu",
+    "name": "isiZulu",
     "code": "zu",
-    "active": "no"
+    "active": "yes"
   }
 ]

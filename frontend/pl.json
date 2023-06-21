@@ -48,7 +48,7 @@
     "description_transit_limit_exceeded": "Paczka znajduje się w transporcie dłużej niż zwykły czas transportu na to pozwala. Skontaktuj się z przewoźnikiem.",
     "description_unsuccessful_delivery": "Przewoźnik próbował dostarczyć, ale nie powiodło się, zazwyczaj zostawiając powiadomienie i będą próbowali dostarczyć ponownie.",
     "description_error": "Nie można śledzić tego przesyłki z powodu problemów technicznych. Prosimy o ponowne śledzenie.",
-    "description_exception": "Cło lub jakiekolwiek wyjątki w dostawie. Prosimy o kontakt z przewoźnikiem.",
+    "description_exception": "Inne wyjątki dotyczące wysyłki. Skontaktuj się z przewoźnikiem.",
     "description_cancelled": "Dostawa została anulowana.",
     "description_delivered": "Paczka została dostarczona.",
     "description_available_for_pickup": "Paczka jest dostępna do odbioru w placówce przewoźnika.",

@@ -48,7 +48,7 @@
     "description_transit_limit_exceeded": "Pakken har vært på reise mye lenger enn vanlig transittid tillater. Vennligst kontakt fraktføreren.",
     "description_unsuccessful_delivery": "Fraktfører forsøkte å levere, men mislyktes, og legger vanligvis igjen en melding og vil prøve å levere igjen.",
     "description_error": "Kan ikke spore dette pakke på grunn av tekniske problemer. Vennligst spore igjen.",
-    "description_exception": "Tollhold eller andre unntak for frakt. Vennligst kontakt fraktføreren.",
+    "description_exception": "Andre frakt unntak. Ta kontakt med transportøren.",
     "description_cancelled": "Leveringen er avlyst.",
     "description_delivered": "Pakken er levert.",
     "description_available_for_pickup": "Pakken er tilgjengelig for henting fra transportørens anlegg.",

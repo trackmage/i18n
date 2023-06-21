@@ -48,7 +48,7 @@
     "description_transit_limit_exceeded": "Pachetul a fost în tranzit mult mai mult decât timpul normal de tranzit permite. Vă rugăm să contactați curierul.",
     "description_unsuccessful_delivery": "Curierul a încercat să livreze, dar nu a reușit și, de obicei, lasă un aviz și va încerca să livreze din nou.",
     "description_error": "Imposibil de urmărit acest colet din cauza problemelor tehnice. Vă rugăm să urmăriți din nou.",
-    "description_exception": "Deținere vamală sau orice excepție de expediere. Vă rugăm să contactați curierul.",
+    "description_exception": "Alte excepții de transport. Vă rugăm să contactați transportatorul.",
     "description_cancelled": "Livrarea a fost anulată.",
     "description_delivered": "Pachetul a fost livrat.",
     "description_available_for_pickup": "Pachetul este disponibil pentru ridicare de la sediul transportatorului.",

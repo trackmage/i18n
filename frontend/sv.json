@@ -48,7 +48,7 @@
     "description_transit_limit_exceeded": "Paketet har varit i transit mycket längre än vad normal transittid tillåter. Vänligen kontakta transportören.",
     "description_unsuccessful_delivery": "Transportören försökte leverera, men misslyckades och lämnar vanligtvis en notis och försöker leverera igen.",
     "description_error": "Det går inte att spåra detta paket på grund av tekniska problem. Vänligen spåra om.",
-    "description_exception": "Tullhållning eller andra fraktundantag. Vänligen kontakta transportören.",
+    "description_exception": "TAndra fraktundantag. Vänligen kontakta transportören.",
     "description_cancelled": "Leveransen har blivit avbruten.",
     "description_delivered": "Paketet har levererats.",
     "description_available_for_pickup": "Paketet finns tillgängligt för upphämtning från transportören anläggning.",

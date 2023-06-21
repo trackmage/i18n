@@ -48,7 +48,7 @@
     "description_transit_limit_exceeded": "Paket je bil v tranzitu veliko dlje, kot je dovoljen normalni tranzitni čas. Obrnite se na prevoznika.",
     "description_unsuccessful_delivery": "Prevoznik je poskušal dostaviti, vendar ni uspelo, običajno pusti obvestilo in ponovno poskusi dostavo.",
     "description_error": "Tega paketa ni mogoče spremljati zaradi tehničnih težav. Prosimo, ponovno sledite.",
-    "description_exception": "Zadrževanje pri carini ali katera koli druga izjema pri pošiljanju. Obrnite se na prevoznika.",
+    "description_exception": "Druge izjeme pri pošiljanju. Obrnite se na prevoznika.",
     "description_cancelled": "Dostava je bila preklicana.",
     "description_delivered": "Paket je bil dostavljen.",
     "description_available_for_pickup": "Paket je na voljo za prevzem na dejavnosti prevoznika.",
