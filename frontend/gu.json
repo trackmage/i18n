@@ -7,7 +7,7 @@
     "homepage": "હોમપેજ",
     "from": "થી",
     "to": "પ્રતિ",
-    "expected_delivery_date": "અપેક્ષિત વિતરણ તારીખ",
+    "expected_delivery_date": "અંદાજિત ડિલિવરી તારીખ",
     "last_updated": "છેલ્લું અપડેટ",
     "show_details": "વિગતો બતાવો",
     "hide_details": "વિગતો છુપાવો",
@@ -66,4 +66,4 @@
     "tp_qty": "જથ્થો",
     "tp_total": "કુલ",
     "tp_price": "કિંમત"
-  }
+}

@@ -1,4 +1,4 @@
-  {
+{
     "search_button": "Kërkim i ri",
     "review_question": "Si ia dolëm?",
     "leave_review": "Lini një përmbledhje",
@@ -7,7 +7,7 @@
     "homepage": "Faqja kryesore",
     "from": "Nga",
     "to": "te",
-    "expected_delivery_date": "Data e pritshme e dorëzimit",
+    "expected_delivery_date": "Data e parashikuar e dorëzimit",
     "last_updated": "Përditësimi i fundit",
     "show_details": "Trego detajet",
     "hide_details": "Fshih detajet",
@@ -66,4 +66,4 @@
     "tp_qty": "Sasia",
     "tp_total": "Total",
     "tp_price": "Çmimi"
-  }
+}

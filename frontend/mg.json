@@ -1,4 +1,4 @@
- {
+{
     "search_button": "Fikarohana vaovao",
     "review_question": "Ahoana no fomba fitantananay?",
     "leave_review": "Mametraha famerenana",
@@ -7,7 +7,7 @@
     "homepage": "Pejy",
     "from": "Avy amin'ny",
     "to": "To to",
-    "expected_delivery_date": "Daty fanaterana andrasana",
+    "expected_delivery_date": "Tombanana ny daty fanaterana",
     "last_updated": "Nohavaozina farany",
     "show_details": "Asehoy ny antsipirihany",
     "hide_details": "Antsipiriany miafina",
@@ -66,4 +66,4 @@
     "tp_qty": "Quantity",
     "tp_total": "Total",
     "tp_price": "Vidiny"
-  }
+}

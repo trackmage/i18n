@@ -1,4 +1,4 @@
-  {
+{
     "search_button": "Nieuwe zoekopdracht",
     "review_question": "Hoe is het ons gelukt?",
     "leave_review": "Laat een beoordeling achter",
@@ -7,7 +7,7 @@
     "homepage": "Startpagina",
     "from": "Van",
     "to": "Naar",
-    "expected_delivery_date": "Verwachte leverdatum",
+    "expected_delivery_date": "Geschatte leverdatum",
     "last_updated": "Laatst bijgewerkt",
     "show_details": "Toon details",
     "hide_details": "Verberg details",
@@ -66,4 +66,4 @@
     "tp_qty": "Aantal",
     "tp_total": "Totaal",
     "tp_price": "Prijs"
-  }
+}

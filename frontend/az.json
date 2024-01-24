@@ -7,7 +7,7 @@
     "homepage": "Əsas səhifə",
     "from": "From",
     "to": "Kimə",
-    "expected_delivery_date": "Gözlənilən çatdırılma tarixi",
+    "expected_delivery_date": "Təxmini çatdırılma tarixi",
     "last_updated": "Son Yenilənib",
     "show_details": "Təfərrüatları göstərin",
     "hide_details": "Detalları gizlədin",
@@ -66,4 +66,4 @@
     "tp_qty": "Miqdar",
     "tp_total": "Ümumi",
     "tp_price": "Qiymət"
-  }
+}

@@ -1,4 +1,4 @@
- {
+{
     "search_button": "Gushakisha bishya",
     "review_question": "Twayoboye dute?",
     "leave_review": "Tanga isubiramo",
@@ -7,7 +7,7 @@
     "homepage": "Urupapuro",
     "from": "Kuva",
     "to": "Kuri",
-    "expected_delivery_date": "Itariki yo gutanga iteganijwe",
+    "expected_delivery_date": "Itariki yo gutanga",
     "last_updated": "Iheruka kuvugururwa",
     "show_details": "Erekana Ibisobanuro",
     "hide_details": "Hisha Ibisobanuro",
@@ -66,4 +66,4 @@
     "tp_qty": "Umubare",
     "tp_total": "Byose",
     "tp_price": "Igiciro"
-  }
+}

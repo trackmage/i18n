@@ -1,4 +1,4 @@
- {
+{
     "search_button": "Uusi haku",
     "review_question": "Miten onnistuimme?",
     "leave_review": "Jätä arvostelu",
@@ -7,7 +7,7 @@
     "homepage": "Kotisivu",
     "from": "From",
     "to": "Vastaanottaja",
-    "expected_delivery_date": "Oletettu toimituspäivä",
+    "expected_delivery_date": "Arvioitu toimituspäivä",
     "last_updated": "Viimeksi päivitetty",
     "show_details": "Näytä yksityiskohdat",
     "hide_details": "Piilota tiedot",
@@ -66,4 +66,4 @@
     "tp_qty": "Määrä",
     "tp_total": "Kaikki yhteensä",
     "tp_price": "Hinta"
-  }
+}

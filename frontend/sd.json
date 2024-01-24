@@ -1,4 +1,4 @@
-  {
+{
     "search_button": "نئين ڳولا",
     "review_question": "اسان ڪيئن انتظام ڪيو?",
     "leave_review": "نظرثاني ڇڏي ڏيو",
@@ -7,7 +7,7 @@
     "homepage": "هوم پيج",
     "from": "کان",
     "to": "ڏانهن",
-    "expected_delivery_date": "متوقع ترسيل تاريخ",
+    "expected_delivery_date": "اندازي مطابق ترسيل جي تاريخ",
     "last_updated": "آخري تازه ڪاري",
     "show_details": "تفصيل ڏيکاريو",
     "hide_details": "تفصيل لڪايو",
@@ -66,4 +66,4 @@
     "tp_qty": "مقدار",
     "tp_total": "ڪل",
     "tp_price": "قيمت"
-  }
+}

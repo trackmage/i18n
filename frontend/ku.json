@@ -1,4 +1,4 @@
- {
+{
     "search_button": "Lêgerîna nû",
     "review_question": "Me çawa îdare kir?",
     "leave_review": "Reviewek bihêlin",
@@ -7,7 +7,7 @@
     "homepage": "Serûpel",
     "from": "Ji",
     "to": "To",
-    "expected_delivery_date": "Dîroka radestkirina bendewar",
+    "expected_delivery_date": "Dîroka radestkirinê ya texmînkirî",
     "last_updated": "Rojanekirina paşîn",
     "show_details": "Hûragahiyan nîşan bidin",
     "hide_details": "Hûragahiyan veşêrin",
@@ -66,4 +66,4 @@
     "tp_qty": "Qasî",
     "tp_total": "Tevahî",
     "tp_price": "Biha"
-  }
+}

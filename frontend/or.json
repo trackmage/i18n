@@ -7,7 +7,7 @@
     "homepage": "ମୂଳପୃଷ୍ଠା",
     "from": "ଠାରୁ",
     "to": "କୁ",
-    "expected_delivery_date": "ଆଶା କରାଯାଉଥିବା ବିତରଣ ତାରିଖ |",
+    "expected_delivery_date": "ଆନୁମାନିକ ବିତରଣ ତାରିଖ",
     "last_updated": "ଶେଷ ଅଦ୍ୟତନ",
     "show_details": "ବିବରଣୀ ଦେଖାନ୍ତୁ |",
     "hide_details": "ବିବରଣୀ ଲୁଚାନ୍ତୁ |",
@@ -66,4 +66,4 @@
     "tp_qty": "Qty",
     "tp_total": "ସମୁଦାୟ",
     "tp_price": "ମୂଲ୍ୟ"
-  }
+}

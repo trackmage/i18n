@@ -7,7 +7,7 @@
     "homepage": "Shafin gida",
     "from": "Daga",
     "to": "Zuwa",
-    "expected_delivery_date": "Ranar bayarwa da ake tsammani",
+    "expected_delivery_date": "Kiyasta ranar bayarwa",
     "last_updated": "An sabunta ta ƙarshe",
     "show_details": "Nuna Cikakkun bayanai",
     "hide_details": "Ɓoye cikakkun bayanai",
@@ -66,4 +66,4 @@
     "tp_qty": "Qty",
     "tp_total": "Jimlar",
     "tp_price": "Farashin"
-  }
+}

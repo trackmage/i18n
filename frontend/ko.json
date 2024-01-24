@@ -1,4 +1,4 @@
-  {
+{
     "search_button": "새로운 검색",
     "review_question": "우리는 어떻게 관리 했습니까?",
     "leave_review": "리뷰를 남겨주세요",
@@ -7,7 +7,7 @@
     "homepage": "홈페이지",
     "from": "에서",
     "to": "에게",
-    "expected_delivery_date": "예상 배달 날짜",
+    "expected_delivery_date": "예상 배송 날짜",
     "last_updated": "마지막 업데이트",
     "show_details": "세부 정보 표시",
     "hide_details": "세부 정보 숨기기",
@@ -66,4 +66,4 @@
     "tp_qty": "수량",
     "tp_total": "총",
     "tp_price": "가격"
-  }
+}

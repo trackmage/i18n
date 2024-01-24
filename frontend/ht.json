@@ -7,7 +7,7 @@
     "homepage": "Paj dakèy",
     "from": "Soti nan",
     "to": "Pou",
-    "expected_delivery_date": "Dat livrezon espere",
+    "expected_delivery_date": "Dat livrezon estimasyon",
     "last_updated": "Dènye Mizajou",
     "show_details": "Montre Detay",
     "hide_details": "Kache Detay yo",
@@ -66,4 +66,4 @@
     "tp_qty": "Kantite",
     "tp_total": "Total",
     "tp_price": "Pri"
-  }
+}

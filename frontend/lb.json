@@ -1,4 +1,4 @@
- {
+{
     "search_button": "Nei Sich",
     "review_question": "Wéi hu mir et geschafft?",
     "leave_review": "Loosst eng Bewäertung",
@@ -7,7 +7,7 @@
     "homepage": "Startsäit",
     "from": "Vun",
     "to": "Fir ze",
-    "expected_delivery_date": "Erwaart Liwwerdatum",
+    "expected_delivery_date": "Geschätzte Liwwerdatum",
     "last_updated": "Lescht aktualiséiert",
     "show_details": "Show Detailer",
     "hide_details": "Verstoppen Detailer",
@@ -66,4 +66,4 @@
     "tp_qty": "Quantitéit",
     "tp_total": "Total",
     "tp_price": "Präis"
-  }
+}

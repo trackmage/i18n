@@ -1,4 +1,4 @@
- {
+{
     "search_button": "Panelusuran Anyar",
     "review_question": "Kepiye carane ngatur?",
     "leave_review": "Ninggalake review",
@@ -7,7 +7,7 @@
     "homepage": "Halaman Ngarep",
     "from": "Saka",
     "to": "Kanggo",
-    "expected_delivery_date": "Tanggal pangiriman samesthine",
+    "expected_delivery_date": "Perkiraan tanggal pangiriman",
     "last_updated": "Paling Keri Dianyari",
     "show_details": "Tampilake Rincian",
     "hide_details": "Singidaken Rincian",
@@ -66,4 +66,4 @@
     "tp_qty": "Kuantitas",
     "tp_total": "Jumlah",
     "tp_price": "Rega"
-  }
+}

@@ -1,5 +1,4 @@
-
-  {
+{
     "search_button": "Bagong Paghahanap",
     "review_question": "Paano tayo nakayanan?",
     "leave_review": "Mag-iwan ng pagsusuri",
@@ -8,7 +7,7 @@
     "homepage": "Homepage",
     "from": "Mula sa",
     "to": "Upang",
-    "expected_delivery_date": "Inaasahang petsa ng paghahatid",
+    "expected_delivery_date": "Tinatayang petsa ng paghahatid",
     "last_updated": "Huling Na-update",
     "show_details": "Ipakita ang mga detalye",
     "hide_details": "Itago ang Mga Detalye",
@@ -67,4 +66,4 @@
     "tp_qty": "Qty",
     "tp_total": "Kabuuan",
     "tp_price": "Presyo"
-  }
+}

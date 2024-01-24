@@ -1,4 +1,4 @@
-  {
+{
     "search_button": "Rapu Hou",
     "review_question": "I pehea ta maatau whakahaere?",
     "leave_review": "Waiho he arotake",
@@ -7,7 +7,7 @@
     "homepage": "Whārangi Kāinga",
     "from": "Mai",
     "to": "Ki",
-    "expected_delivery_date": "Te ra tuku e tumanakohia ana",
+    "expected_delivery_date": "Te ra tuku e kiia ana",
     "last_updated": "Whakahoutanga Whakamutunga",
     "show_details": "Whakaatuhia nga Taipitopito",
     "hide_details": "Huna Taipitopito",
@@ -66,4 +66,4 @@
     "tp_qty": "Qty",
     "tp_total": "Tapeke",
     "tp_price": "Utu"
-  }
+}

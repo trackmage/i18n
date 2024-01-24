@@ -7,7 +7,7 @@
     "homepage": "Գլխավոր էջ",
     "from": "Որտեղից",
     "to": "Որտեղ",
-    "expected_delivery_date": "Առաքման ակնկալվող ժամանակը",
+    "expected_delivery_date": "Գնահատված առաքման ամսաթիվը",
     "last_updated": "Վերջին թարմացում",
     "show_details": "Մանրամասն",
     "hide_details": "Թաքցնել",

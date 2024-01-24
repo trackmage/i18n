@@ -1,4 +1,4 @@
-  {
+{
     "search_button": "Ҷустуҷӯи нав",
     "review_question": "Мо чӣ гуна идора кардем?",
     "leave_review": "Шарҳро тарк кунед",
@@ -7,7 +7,7 @@
     "homepage": "Саҳифаи аслӣ",
     "from": "Аз",
     "to": "Ба",
-    "expected_delivery_date": "Санаи пешбинишудаи таҳвил",
+    "expected_delivery_date": "Санаи тахминии таҳвил",
     "last_updated": "Навсозӣ",
     "show_details": "Тафсилотро нишон диҳед",
     "hide_details": "Тафсилотро пинҳон кунед",
@@ -66,4 +66,4 @@
     "tp_qty": "Миқдори",
     "tp_total": "Ҷамъ",
     "tp_price": "Нарх"
-  }
+}

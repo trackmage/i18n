@@ -1,4 +1,4 @@
- {
+{
     "search_button": "Rannsachadh ùr",
     "review_question": "Ciamar a bha sinn a ’riaghladh?",
     "leave_review": "Fàg lèirmheas",
@@ -7,7 +7,7 @@
     "homepage": "Duilleag-dachaigh",
     "from": "Bho",
     "to": "Gu",
-    "expected_delivery_date": "Ceann-latha lìbhrigidh ris a bheil dùil",
+    "expected_delivery_date": "Ceann-latha lìbhrigidh tuairmseach",
     "last_updated": "Ùraichte mu dheireadh",
     "show_details": "Seall mion-fhiosrachadh",
     "hide_details": "Cuir am falach mion-fhiosrachadh",
@@ -66,4 +66,4 @@
     "tp_qty": "Meud",
     "tp_total": "Iomlan",
     "tp_price": "Prìs"
-  }
+}

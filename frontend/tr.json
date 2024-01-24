@@ -7,7 +7,7 @@
     "homepage": "Ana sayfa",
     "from": "Kimden",
     "to": "Kime",
-    "expected_delivery_date": "Beklenen teslim tarihi",
+    "expected_delivery_date": "Tahmini teslim tarihi",
     "last_updated": "Son Güncellenme",
     "show_details": "Detayları Göster",
     "hide_details": "Detayları Gizle",

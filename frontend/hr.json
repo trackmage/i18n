@@ -1,4 +1,4 @@
- {
+{
     "search_button": "Nova pretraga",
     "review_question": "Kako smo se snašli?",
     "leave_review": "Ostavite recenziju",
@@ -7,7 +7,7 @@
     "homepage": "Početna stranica",
     "from": "Iz",
     "to": "Do",
-    "expected_delivery_date": "Očekivani datum isporuke",
+    "expected_delivery_date": "Procijenjeni datum isporuke",
     "last_updated": "Zadnje ažurirano",
     "show_details": "Pokaži detalje",
     "hide_details": "Sakri detalje",
@@ -66,4 +66,4 @@
     "tp_qty": "Kol",
     "tp_total": "Ukupno",
     "tp_price": "Cijena"
-  }
+}

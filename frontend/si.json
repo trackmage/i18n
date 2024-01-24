@@ -1,4 +1,4 @@
- {
+{
     "search_button": "නව සෙවීම",
     "review_question": "අපි කොහොමද කළමනාකරණය කළේ?",
     "leave_review": "සමාලෝචනයක් තබන්න",
@@ -7,7 +7,7 @@
     "homepage": "මුල් පිටුව",
     "from": "සිට",
     "to": "වෙත",
-    "expected_delivery_date": "අපේක්ෂිත භාරදීමේ දිනය",
+    "expected_delivery_date": "ඇස්තමේන්තුගත බෙදාහැරීමේ දිනය",
     "last_updated": "අවසන් වරට යාවත්කාලීන කරන ලදි",
     "show_details": "විස්තර පෙන්වන්න",
     "hide_details": "විස්තර සඟවන්න",
@@ -66,4 +66,4 @@
     "tp_qty": "ප්‍රමාණය",
     "tp_total": "එකතුව",
     "tp_price": "මිල"
-  }
+}

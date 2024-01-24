@@ -1,4 +1,4 @@
- {
+{
     "search_button": "Nchọpụta ọhụụ",
     "review_question": "Kedu ka anyị si jikwaa?",
     "leave_review": "Hapụ nyocha",
@@ -7,7 +7,7 @@
     "homepage": "Peeji",
     "from": "Site",
     "to": "Ka",
-    "expected_delivery_date": "Bọchị nnyefe a na-atụ anya",
+    "expected_delivery_date": "Ụbọchị nnyefe echere",
     "last_updated": "Emelitere ikpeazụ",
     "show_details": "Gosi nkọwa",
     "hide_details": "Zoo nkọwa",
@@ -66,4 +66,4 @@
     "tp_qty": "Ọnụ ọgụgụ",
     "tp_total": "Ngụkọta",
     "tp_price": "Ọnụahịa"
-  }
+}

@@ -7,7 +7,7 @@
     "homepage": "ပင်မစာမျက်နှာ",
     "from": "ထံမှ",
     "to": "ရန်",
-    "expected_delivery_date": "ပို့ဆောင်မည့်ရက်စွဲ",
+    "expected_delivery_date": "ပေးပို့မည့်ရက် ခန့်မှန်း",
     "last_updated": "နောက်ဆုံးအပ်ဒိတ်",
     "show_details": "အသေးစိတ်ပြ",
     "hide_details": "အသေးစိတ်ကို ဝှက်ပါ။",
@@ -66,4 +66,4 @@
     "tp_qty": "အရေအတွက်",
     "tp_total": "စုစုပေါင်း",
     "tp_price": "စျေးနှုန်း"
-  }
+}

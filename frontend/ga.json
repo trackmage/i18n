@@ -1,4 +1,4 @@
- {
+{
     "search_button": "Cuardach Nua",
     "review_question": "Conas a d’éirigh linn?",
     "leave_review": "Fág léirmheas",
@@ -7,7 +7,7 @@
     "homepage": "Leathanach baile",
     "from": "Ó",
     "to": "Chun",
-    "expected_delivery_date": "Dáta seachadta ionchais",
+    "expected_delivery_date": "Dáta seachadta measta",
     "last_updated": "Nuashonraithe Deiridh",
     "show_details": "Sonraí a thaispeáint",
     "hide_details": "Folaigh Sonraí",
@@ -66,4 +66,4 @@
     "tp_qty": "Ceathair",
     "tp_total": "Iomlán",
     "tp_price": "Praghas"
-  }
+}

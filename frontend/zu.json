@@ -1,4 +1,4 @@
-  {
+{
     "search_button": "Ukucinga okusha",
     "review_question": "Sikwazile kanjani?",
     "leave_review": "Shiya isibuyekezo",
@@ -7,7 +7,7 @@
     "homepage": "Ikhasi eliyisiqalo",
     "from": "Kusuka",
     "to": "Kuya",
-    "expected_delivery_date": "Idethi yokulethwa elindelwe",
+    "expected_delivery_date": "Idethi yokulethwa elinganiselwe",
     "last_updated": "Kugcine ukubuyekezwa",
     "show_details": "Bonisa Imininingwane",
     "hide_details": "Fihla Imininingwane",
@@ -66,4 +66,4 @@
     "tp_qty": "Qty",
     "tp_total": "Ingqikithi",
     "tp_price": "Inani"
-  }
+}

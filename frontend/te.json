@@ -1,4 +1,4 @@
- {
+{
     "search_button": "కొత్త శోధన",
     "review_question": "మేము ఎలా నిర్వహించాము?",
     "leave_review": "సమీక్షను వదిలివేయండి",
@@ -7,7 +7,7 @@
     "homepage": "హోమ్‌పేజీ",
     "from": "నుండి",
     "to": "కు",
-    "expected_delivery_date": "ఊహించిన డెలివరీ తేదీ",
+    "expected_delivery_date": "అంచనా వేసిన డెలివరీ తేదీ",
     "last_updated": "చివరిగా నవీకరించబడింది",
     "show_details": "వివరాలు చుపించండి",
     "hide_details": "వివరాలను దాచండి",
@@ -66,4 +66,4 @@
     "tp_qty": "క్యూటీ",
     "tp_total": "మొత్తం",
     "tp_price": "ధర"
-  }
+}

@@ -1,4 +1,4 @@
- {
+{
     "search_button": "Шинэ хайлт",
     "review_question": "Бид яаж зохицуулсан бэ?",
     "leave_review": "Сэтгэгдэл үлдээгээрэй",
@@ -7,7 +7,7 @@
     "homepage": "Нүүр хуудас",
     "from": "-аас",
     "to": "руу",
-    "expected_delivery_date": "Хүлээгдэж буй хүргэлтийн огноо",
+    "expected_delivery_date": "Төрөх тооцоолсон огноо",
     "last_updated": "Сүүлд шинэчилсэн",
     "show_details": "Дэлгэрэнгүй харуулах",
     "hide_details": "Дэлгэрэнгүй мэдээллийг нуух",
@@ -66,4 +66,4 @@
     "tp_qty": "Тоо ширхэг",
     "tp_total": "Нийт",
     "tp_price": "Үнэ"
-  }
+}

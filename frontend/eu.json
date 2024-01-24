@@ -1,4 +1,4 @@
- {
+{
     "search_button": "Bilaketa berria",
     "review_question": "Nola kudeatu genuen?",
     "leave_review": "Utzi iritzia",
@@ -7,7 +7,7 @@
     "homepage": "Hasierako orria",
     "from": "Bertatik",
     "to": "To",
-    "expected_delivery_date": "Espero den entrega-data",
+    "expected_delivery_date": "Bidalketa-data estimatua",
     "last_updated": "Azken eguneratua",
     "show_details": "Xehetasunak erakutsi",
     "hide_details": "Ezkutatu xehetasunak",
@@ -66,4 +66,4 @@
     "tp_qty": "Kot",
     "tp_total": "Guztira",
     "tp_price": "Prezioa"
-  }
+}

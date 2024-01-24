@@ -1,5 +1,4 @@
-
-  {
+{
     "search_button": "Yangi qidiruv",
     "review_question": "Biz qanday qilib boshqardik?",
     "leave_review": "Sharh qoldiring",
@@ -8,7 +7,7 @@
     "homepage": "Bosh sahifa",
     "from": "Kimdan",
     "to": "Kimga",
-    "expected_delivery_date": "Kutilayotgan yetkazib berish sanasi",
+    "expected_delivery_date": "Taxminiy yetkazib berish sanasi",
     "last_updated": "Oxirgi yangilangan",
     "show_details": "Tafsilotlarni ko'rsatish",
     "hide_details": "Tafsilotlarni yashirish",
@@ -67,4 +66,4 @@
     "tp_qty": "Miqdor",
     "tp_total": "Jami",
     "tp_price": "Narxi"
-  }
+}

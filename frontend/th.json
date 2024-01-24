@@ -1,5 +1,4 @@
-
-  {
+{
     "search_button": "การค้นหาใหม่",
     "review_question": "เราจัดการอย่างไร?",
     "leave_review": "แสดงความคิดเห็น",
@@ -8,7 +7,7 @@
     "homepage": "หน้าแรก",
     "from": "จาก",
     "to": "ถึง",
-    "expected_delivery_date": "วันที่คาดว่าจะจัดส่ง",
+    "expected_delivery_date": "วันที่จัดส่งโดยประมาณ",
     "last_updated": "ปรับปรุงล่าสุด",
     "show_details": "แสดงรายละเอียด",
     "hide_details": "ซ่อนรายละเอียด",
@@ -67,4 +66,4 @@
     "tp_qty": "จำนวน",
     "tp_total": "ทั้งหมด",
     "tp_price": "ราคา"
-  }
+}

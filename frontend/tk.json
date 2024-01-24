@@ -1,4 +1,4 @@
-  {
+{
     "search_button": "Täze gözleg",
     "review_question": "Nädip dolandyrdyk?",
     "leave_review": "Syn goýuň",
@@ -7,7 +7,7 @@
     "homepage": "Baş sahypa",
     "from": "Kimden",
     "to": "To To To",
-    "expected_delivery_date": "Garaşylýan gowşuryş senesi",
+    "expected_delivery_date": "Takmynan gowşuryş senesi",
     "last_updated": "Iň soňky täzelenen",
     "show_details": "Jikme-jiklikleri görkeziň",
     "hide_details": "Jikme-jiklikleri gizläň",
@@ -66,4 +66,4 @@
     "tp_qty": "Qty",
     "tp_total": "Jemi",
     "tp_price": "Bahasy"
-  }
+}

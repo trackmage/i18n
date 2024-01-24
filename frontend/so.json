@@ -1,5 +1,4 @@
-
-  {
+{
     "search_button": "Raadin Cusub",
     "review_question": "Sideen u maamulnay?",
     "leave_review": "Ka tag dib u eegis",
@@ -8,7 +7,7 @@
     "homepage": "Bogga hore",
     "from": "Ka",
     "to": "Ku",
-    "expected_delivery_date": "Taariikhda keenista la filayo",
+    "expected_delivery_date": "Qiyaasta taariikhda bixinta",
     "last_updated": "La cusbooneysiiyay",
     "show_details": "Muuji Faahfaahin",
     "hide_details": "Qari Faahfaahinta",
@@ -67,4 +66,4 @@
     "tp_qty": "Qty",
     "tp_total": "Wadarta",
     "tp_price": "Qiimo"
-  }
+}

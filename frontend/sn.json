@@ -1,4 +1,4 @@
-  {
+{
     "search_button": "Kutsvaga kutsva",
     "review_question": "Takabata sei?",
     "leave_review": "Siya wongororo",
@@ -7,7 +7,7 @@
     "homepage": "Peji",
     "from": "Kubva Kubva Kubva Kubva",
     "to": "Kuenda",
-    "expected_delivery_date": "Inotarisirwa zuva rekutumira",
+    "expected_delivery_date": "Inofungidzirwa zuva rekutumira",
     "last_updated": "Yakapedzisira Yavandudzwa",
     "show_details": "Ratidza Details",
     "hide_details": "Viga Nhoroondo",
@@ -66,4 +66,4 @@
     "tp_qty": "Kuwanda",
     "tp_total": "Yese Yese",
     "tp_price": "Mutengo"
-  }
+}

@@ -7,7 +7,7 @@
     "homepage": "ຫນ້າທໍາອິດ",
     "from": "ຈາກ",
     "to": "ເຖິງ",
-    "expected_delivery_date": "ວັນທີຈັດສົ່ງທີ່ຄາດວ່າຈະ",
+    "expected_delivery_date": "ຄາດຄະເນວັນທີຈັດສົ່ງ",
     "last_updated": "ອັບເດດຫຼ້າສຸດ",
     "show_details": "ສະ​ແດງ​ລາຍ​ລະ​ອຽດ",
     "hide_details": "ເຊື່ອງລາຍລະອຽດ",
@@ -66,4 +66,4 @@
     "tp_qty": "ຈຳນວນ",
     "tp_total": "ທັງໝົດ",
     "tp_price": "ລາຄາ"
-  }
+}

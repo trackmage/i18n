@@ -1,5 +1,4 @@
-
-  {
+{
     "search_button": "ניו זוך",
     "review_question": "ווי האבן מיר געראטן?",
     "leave_review": "לאָזן אַ רעצענזיע",
@@ -8,7 +7,7 @@
     "homepage": "האָמעפּאַגע",
     "from": "פון",
     "to": "צו",
-    "expected_delivery_date": "דערוואַרט עקספּרעס טאָג",
+    "expected_delivery_date": "עסטימאַטעד עקספּרעס טאָג",
     "last_updated": "לעצטע דערהייַנטיקט",
     "show_details": "ווייז דעטאלן",
     "hide_details": "באַהאַלטן דעטאַילס",
@@ -67,4 +66,4 @@
     "tp_qty": "קטי",
     "tp_total": "גאַנץ",
     "tp_price": "פּרייַז"
-  }
+}

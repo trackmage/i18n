@@ -7,7 +7,7 @@
     "homepage": "Kezdőlap",
     "from": "Tól től",
     "to": "Nak nek",
-    "expected_delivery_date": "Várható kézbesítési dátum",
+    "expected_delivery_date": "Becsült szállítási dátum",
     "last_updated": "Utolsó frissítés",
     "show_details": "Mutasd a részleteket",
     "hide_details": "Rejtett részletek",
@@ -66,4 +66,4 @@
     "tp_qty": "Menny",
     "tp_total": "Teljes",
     "tp_price": "Ár"
-  }
+}

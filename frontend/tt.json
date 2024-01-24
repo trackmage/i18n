@@ -1,4 +1,4 @@
- {
+{
     "search_button": "Яңа эзләү",
     "review_question": "Ничек без идарә иттек?",
     "leave_review": "Кабатлау калдырыгыз",
@@ -7,7 +7,7 @@
     "homepage": "Баш бит",
     "from": "Кемнән",
     "to": "Кемгә",
-    "expected_delivery_date": "Көтелгән тапшыру вакыты",
+    "expected_delivery_date": "Фаразланган тапшыру датасы",
     "last_updated": "Соңгы яңартылды",
     "show_details": "Детальләрне күрсәтегез",
     "hide_details": "Детальләрне яшерү",
@@ -66,4 +66,4 @@
     "tp_qty": "Сан саны",
     "tp_total": "Барлыгы",
     "tp_price": "Бәя бәясе"
-  }
+}

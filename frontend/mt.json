@@ -1,4 +1,4 @@
-  {
+{
     "search_button": "Fittex Ġdid",
     "review_question": "Kif rnexxielna?",
     "leave_review": "Ħalli reviżjoni",
@@ -7,7 +7,7 @@
     "homepage": "Homepage",
     "from": "Minn",
     "to": "Biex",
-    "expected_delivery_date": "Data tal-kunsinna mistennija",
+    "expected_delivery_date": "Data stmata tal-kunsinna",
     "last_updated": "Aġġornata l-aħħar",
     "show_details": "Uri d-dettalji",
     "hide_details": "Aħbi Dettalji",
@@ -66,4 +66,4 @@
     "tp_qty": "Qty",
     "tp_total": "Total",
     "tp_price": "Prezz"
-  }
+}

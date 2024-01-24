@@ -1,4 +1,4 @@
-  {
+{
     "search_button": "Iwadi Tuntun",
     "review_question": "Bawo ni a ṣe ṣakoso?",
     "leave_review": "Fi kan awotẹlẹ",
@@ -7,7 +7,7 @@
     "homepage": "Oju-iwe akọọkan",
     "from": "Lati",
     "to": "Si",
-    "expected_delivery_date": "O ti ṣe yẹ ifijiṣẹ ọjọ",
+    "expected_delivery_date": "Ọjọ ifijiṣẹ ifoju",
     "last_updated": "Imudojuiwọn to kẹhin",
     "show_details": "Ṣe afihan Awọn alaye",
     "hide_details": "Tọju Awọn alaye",
@@ -66,4 +66,4 @@
     "tp_qty": "Qty",
     "tp_total": "Lapapọ",
     "tp_price": "Iye owo"
-  }
+}

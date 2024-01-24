@@ -1,4 +1,4 @@
-  {
+{
     "search_button": "নতুন অনুসন্ধান",
     "review_question": "আমরা কিভাবে পরিচালনা করেছি?",
     "leave_review": "একটি পর্যালোচনা ছেড়ে",
@@ -7,7 +7,7 @@
     "homepage": "হোমপেজ",
     "from": "থেকে",
     "to": "প্রতি",
-    "expected_delivery_date": "প্রত্যাশিত প্রসবের তারিখ",
+    "expected_delivery_date": "আনুমানিক প্রসবের তারিখ",
     "last_updated": "সর্বশেষ সংষ্করণ",
     "show_details": "বিস্তারিত দেখাও",
     "hide_details": "আড়াল বিস্তারিত",
@@ -66,4 +66,4 @@
     "tp_qty": "পরিমাণ",
     "tp_total": "মোট",
     "tp_price": "দাম"
-  }
+}

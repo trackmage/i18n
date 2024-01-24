@@ -1,4 +1,4 @@
-  {
+{
     "search_button": "ಹೊಸ ಹುಡುಕಾಟ",
     "review_question": "ನಾವು ಹೇಗೆ ನಿರ್ವಹಿಸಿದ್ದೇವೆ?",
     "leave_review": "ವಿಮರ್ಶೆಯನ್ನು ಬಿಡಿ",
@@ -7,7 +7,7 @@
     "homepage": "ಮುಖಪುಟ",
     "from": "ಇಂದ",
     "to": "ಗೆ",
-    "expected_delivery_date": "ನಿರೀಕ್ಷಿತ ವಿತರಣಾ ದಿನಾಂಕ",
+    "expected_delivery_date": "ಅಂದಾಜು ವಿತರಣಾ ದಿನಾಂಕ",
     "last_updated": "ಕೊನೆಯದಾಗಿ ನವೀಕರಿಸಲಾಗಿದೆ",
     "show_details": "ವಿವರಗಳನ್ನು ತೋರಿಸು",
     "hide_details": "ವಿವರಗಳನ್ನು ಮರೆಮಾಡಿ",
@@ -66,4 +66,4 @@
     "tp_qty": "ಪ್ರಮಾಣ",
     "tp_total": "ಒಟ್ಟು",
     "tp_price": "ಬೆಲೆ"
-  }
+}

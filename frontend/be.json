@@ -7,7 +7,7 @@
     "homepage": "Хатняя старонка",
     "from": "Ад",
     "to": "каб",
-    "expected_delivery_date": "Меркаваная дата дастаўкі",
+    "expected_delivery_date": "Разліковая дата пастаўкі",
     "last_updated": "Апошняе абнаўленне",
     "show_details": "Паказаць дэталі",
     "hide_details": "Схаваць дэталі",
@@ -66,4 +66,4 @@
     "tp_qty": "Колькасць",
     "tp_total": "Усяго",
     "tp_price": "Кошт"
-  }
+}

@@ -7,7 +7,7 @@
     "homepage": "کور پاpageه",
     "from": "له",
     "to": "ته",
-    "expected_delivery_date": "د تحویلي تمه",
+    "expected_delivery_date": "د سپارلو اټکل شوی نیټه",
     "last_updated": "وروستی تازه شوی",
     "show_details": "توضیحات وښایاست",
     "hide_details": "توضیحات پټ کړئ",
@@ -66,4 +66,4 @@
     "tp_qty": "مقدار",
     "tp_total": "ټوله",
     "tp_price": "بیه"
-  }
+}

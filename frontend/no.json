@@ -7,7 +7,7 @@
     "homepage": "Hjemmeside",
     "from": "Fra",
     "to": "Til",
-    "expected_delivery_date": "Forventet leveringsdato",
+    "expected_delivery_date": "Estimert leveringsdato",
     "last_updated": "Sist oppdatert",
     "show_details": "Vis detaljer",
     "hide_details": "Skjul detaljer",

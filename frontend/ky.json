@@ -1,4 +1,4 @@
- {
+{
     "search_button": "Жаңы издөө",
     "review_question": "Биз кантип башкардык?",
     "leave_review": "Сын-пикир калтырыңыз",
@@ -7,7 +7,7 @@
     "homepage": "бет",
     "from": "тартып",
     "to": "үчүн",
-    "expected_delivery_date": "Күтүлүүчү жеткирүү күнү",
+    "expected_delivery_date": "Болжолдуу жеткирүү датасы",
     "last_updated": "Акыркы жолу жаңыртылган",
     "show_details": "Чоо-жайын көрсөтүү",
     "hide_details": "Чоо-жайын жашыруу",
@@ -66,4 +66,4 @@
     "tp_qty": "саны",
     "tp_total": "жалпы",
     "tp_price": "баа"
-  }
+}
